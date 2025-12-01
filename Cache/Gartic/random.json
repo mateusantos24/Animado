@@ -351,13 +351,6 @@
   },
   {
     "what": "NOME DO PAÍS",
-    "url": "https://s1.static.brasilescola.uol.com.br/be/2022/10/bandeira-federal-alemanha.jpg",
-    "name": "alemanha",
-    "tracos": "❌",
-    "bonus": 1
-  },
-  {
-    "what": "NOME DO PAÍS",
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png",
     "name": "mexico",
     "tracos": "❌",
