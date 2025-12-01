@@ -1,0 +1,2088 @@
+[
+  {
+    "what": "FRUTAS",
+    "url": "https://static.todamateria.com.br/upload/ac/er/acerola-cke.jpg?auto_optimize=low",
+    "name": "acerola",
+    "tracos": "❌",
+    "bonus": 150
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://static.todamateria.com.br/upload/ba/na/banana-0-cke.jpg?auto_optimize=low",
+    "name": "banana",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "DESENHO",
+    "url": "https://w7.pngwing.com/pngs/918/392/png-transparent-pepe-the-frog-information-internet-video-game-others-miscellaneous-food-leaf-thumbnail.png",
+    "name": "pepe",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DO JOGOS",
+    "url": "https://play-lh.googleusercontent.com/oObkhKfUXOY5yzheKe9w1Y1pXZBgdiSksMeNmT0BijoQ8J75maTCIW2TA7-6pA6EMA",
+    "name": "slither io",
+    "tracos": "❌",
+    "bonus": 50
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://www.eletropartscomponentes.com.br/wp-content/uploads/2021/08/controle_remoto_lg_akb_74915321.jpg",
+    "name": "controle remoto",
+    "tracos": "❌",
+    "bonus": 100
+  },
+  {
+    "what": "ANIMAL",
+    "url": "https://files.agro20.com.br/uploads/2020/02/coruja-branca-3-1024x576.jpg",
+    "name": "coruja branca",
+    "tracos": "❌",
+    "bonus": 350
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://img.elo7.com.br/product/main/263B0AD/quadro-deadpool-desenho-tamanho-35x25-cm-super-heroi.jpg",
+    "name": "deadpool",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://img.freepik.com/vetores-premium/conceito-de-objeto-de-despertador-vermelho-vetor-de-icone-de-desenho-animado_484148-122.jpg",
+    "name": "despertador",
+    "tracos": "❌",
+    "bonus": 400
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://www.bordadosrl.com.br/9622-large_default/o-bom-dinossauro-05-tres-tamanhos.jpg",
+    "name": "o bom dinossauro",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "VEICULOS DO GTA V",
+    "url": "https://static.wikia.nocookie.net/gta/images/a/a0/Elegy_Retro_Custom_-_GTA_Online.png/revision/latest?cb=20200504212231&path-prefix=fr",
+    "name": "elegy",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/05/Homem-de-Ferro-voando-1024x576.jpg",
+    "name": "homem de ferro",
+    "tracos": "❌",
+    "bonus": 600
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://static.wikia.nocookie.net/tudosobrehoradeaventura/images/3/31/1471239086278.jpg/revision/latest?cb=20210617222037&path-prefix=pt-br",
+    "name": "finn",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://i.pinimg.com/564x/44/78/95/447895873e7a5ce8586838a86255ad47.jpg",
+    "name": "hanako-kun",
+    "tracos": "✅",
+    "bonus": 1500
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://i.pinimg.com/originals/bb/d6/52/bbd6520f6ca88ef1be53e4c836b54fbd.jpg",
+    "name": "harry potter",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "VEICULOS DO GTA V",
+    "url": "https://static.wikia.nocookie.net/gtawiki/images/0/0e/Infernus-GTAV-front.png/revision/latest?cb=20160429175116",
+    "name": "infernus",
+    "tracos": "❌",
+    "bonus": 850
+  },
+  {
+    "what": "FRUTA",
+    "url": "https://static.todamateria.com.br/upload/la/ra/laranja-cke.jpg?auto_optimize=low",
+    "name": "laranja",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "ANIMAL",
+    "url": "https://img.freepik.com/fotos-premium/leao-na-ilustracao-gerada-por-ai-de-fundo-escuro_195056-32.jpg",
+    "name": "leão",
+    "tracos": "❌",
+    "bonus": 1200
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://static.todamateria.com.br/upload/li/ma/limao-cke.jpg?auto_optimize=low",
+    "name": "limão",
+    "tracos": "❌",
+    "bonus": 550
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/Lisa_Simpson_personagem.png/200px-Lisa_Simpson_personagem.png",
+    "name": "lisa",
+    "tracos": "❌",
+    "bonus": 400
+  },
+  {
+    "what": "ANIMAL",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Canis_lupus_265b.jpg/800px-Canis_lupus_265b.jpg",
+    "name": "lobo",
+    "tracos": "❌",
+    "bonus": 430
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://aniyuki.com/wp-content/uploads/2021/07/aniyuki-megumin-28-803x1024.jpg",
+    "name": "megumin",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://static.wikia.nocookie.net/liberproeliis/images/d/d0/MIKUV3_img1.png/revision/latest/scale-to-width-down/350?cb=20191231003909&path-prefix=pt-br",
+    "name": "hatsune miku",
+    "tracos": "❌",
+    "bonus": 900
+  },
+  {
+    "what": "NOME DOS PERSONAGEM",
+    "url": "https://desenhos.org/wp-content/uploads/2021/04/monstros-sa-para-colorir-3.jpg",
+    "name": "mike",
+    "tracos": "❌",
+    "bonus": 800
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://static.todamateria.com.br/upload/mo/ra/morango-cke.jpg?auto_optimize=low",
+    "name": "morango",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "PLANETA UNIVERSO",
+    "url": "https://www.infoescola.com/wp-content/uploads/2008/04/netuno.jpg",
+    "name": "netuno",
+    "tracos": "❌",
+    "bonus": 150
+  },
+  {
+    "what": "ANIMAL",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Papagaio-verdadeiro.jpg/800px-Papagaio-verdadeiro.jpg",
+    "name": "papagaio-verdadeiro",
+    "tracos": "✅",
+    "bonus": 700
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://upload.wikimedia.org/wikipedia/pt/3/3f/Woody_Woodpecker.png",
+    "name": "pica-pau",
+    "tracos": "✅",
+    "bonus": 250
+  },
+  {
+    "what": "ANIMAL",
+    "url": "https://i0.wp.com/s3.amazonaws.com/blog.dentrodahistoria.com.br/wp-content/uploads/2020/02/28175747/animais-do-gelo.jpg?resize=800%2C500&ssl=1",
+    "name": "pinguins",
+    "tracos": "❌",
+    "bonus": 600
+  },
+  {
+    "what": "SALA",
+    "url": "https://img.freepik.com/vetores-premium/desenho-de-professor-de-homem-de-escola_24640-55115.jpg",
+    "name": "professor",
+    "tracos": "❌",
+    "bonus": 400
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46351f65-f1ff-40a5-b1f4-5357f61e0d3a/d9zdbhd-cbb3b30a-3e1d-4dea-b760-85efbf441b11.jpg/v1/fill/w_600,h_769,q_75,strp/snape_and_the_book_by_jinaelee_d9zdbhd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY5IiwicGF0aCI6IlwvZlwvNDYzNTFmNjUtZjFmZi00MGE1LWIxZjQtNTM1N2Y2MWUwZDNhXC9kOXpkYmhkLWNiYjNiMzBhLTNlMWQtNGRlYS1iNzYwLTg1ZWZiZjQ0MWIxMS5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.O4PEfnCNiUZkW0VBo9PRPf1_6BvDftUNYUi2sdrn_30",
+    "name": "severus snape",
+    "tracos": "❌",
+    "bonus": 650
+  },
+  {
+    "what": "ANIMAL",
+    "url": "https://i.pinimg.com/originals/2c/78/ca/2c78cafcf14e11cd89ee24f992b6e081.jpg",
+    "name": "urso",
+    "tracos": "❌",
+    "bonus": 100
+  },
+  {
+    "what": "ANIMAL",
+    "url": "https://s3.amazonaws.com/media.wikiaves.com.br/images/3291/1923156_b7fe7934e17e638d9fc3b2fa7c870fef.jpg",
+    "name": "urubu-preto",
+    "tracos": "✅",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DO JOGOS",
+    "url": "https://img.quizur.com/f/img60f297952ac4b5.87456252.jpg?lastEdited=1626511256",
+    "name": "minecraft",
+    "tracos": "❌",
+    "bonus": 650
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://img.quizur.com/f/img60527a76b891e5.44927763.jpg?lastEdited=1616018059",
+    "name": "zootopia",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://occ-0-8407-2218.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWk3UCFX307xeY1U7F7uYpPT8VTBUmz-Pthh2w9iNeu5tSkCrLLTWoNTIrRgO8JVey_gUqjsjKP4Pdpn7IckEpN19dHU-X7zOKQl.jpg?r=3f5",
+    "name": "a fera do mar",
+    "tracos": "❌",
+    "bonus": 130
+  },
+  {
+    "what": "NOME DOS DRAGÕES?",
+    "url": "http://pm1.narvii.com/7010/4ac1e3e714b00235a683348e7c886ddd29d921dcr1-470-652v2_00.jpg",
+    "name": "furia da noite",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/01/Panico-5-filmes-terror.jpg?w=876&h=484&crop=1",
+    "name": "panico",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://miro.medium.com/v2/resize:fit:2000/0*f2qtvAorhmjygR05.jpg",
+    "name": "a fantastica fabrica de chocolate",
+    "tracos": "❌",
+    "bonus": 850
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://museulinguaportuguesa.org.br/wp-content/uploads/2018/03/Xadrez.jpg",
+    "name": "xadrez",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://i.ebayimg.com/images/g/pFQAAOSwepJXVcUD/s-l500.jpg",
+    "name": "lord voldemort",
+    "tracos": "❌",
+    "bonus": 105
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://designe.com.br/wp-content/uploads/2021/05/feiticeira-escarlate-em-doutor-estranho-2.jpg",
+    "name": "feiticeira escarlate",
+    "tracos": "❌",
+    "bonus": 450
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://s2.glbimg.com/Hg_iwbILkSaXpwG5ZcM6zfS1lWw=/620x466/top/e.glbimg.com/og/ed/f/original/2019/03/14/vinga1.png",
+    "name": "vingadores ultimato",
+    "tracos": "❌",
+    "bonus": 999
+  },
+  {
+    "what": "DESENHO?",
+    "url": "https://saopauloparacriancas.com.br/wp-content/uploads/2020/04/sp_criancas_silvio_voce_PIPA-PEIXINHO-1.jpg",
+    "name": "pipa",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "SALA?",
+    "url": "https://ichef.bbci.co.uk/news/800/cpsprodpb/C5BA/production/_125881605_gettyimages-577674005.jpg",
+    "name": "biblioteca",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "MATERIAIS?",
+    "url": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/a-quimica-oferece-conhecimentos-muito-importantes-para-desenvolvimento-nossa-sociedade-562fd9fc8296e.jpg",
+    "name": "quimica",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "QUEM ANONIMOS É ESSE?",
+    "url": "https://www.infomoney.com.br/wp-content/uploads/2019/06/hacker-computador.jpg?resize=900%2C515&quality=50&strip=all",
+    "name": "hacker",
+    "tracos": "❌",
+    "bonus": 999
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flag_of_Australia_%28converted%29.svg.png",
+    "name": "australia",
+    "tracos": "❌",
+    "bonus": 650
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://s3.static.brasilescola.uol.com.br/be/conteudo/images/estados-unidos.jpg",
+    "name": "estados unidos",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/290px-Flag_of_Ukraine.svg.png",
+    "name": "ucrania",
+    "tracos": "❌",
+    "bonus": 400
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/255px-Flag_of_Italy.svg.png",
+    "name": "italia",
+    "tracos": "❌",
+    "bonus": 100
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://s1.static.brasilescola.uol.com.br/be/2022/10/bandeira-federal-alemanha.jpg",
+    "name": "alemanha",
+    "tracos": "❌",
+    "bonus": 1
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png",
+    "name": "mexico",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://s4.static.brasilescola.uol.com.br/be/2022/11/bandeira-da-belgica.jpg",
+    "name": "belgica",
+    "tracos": "❌",
+    "bonus": 400
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png",
+    "name": "argentina",
+    "tracos": "❌",
+    "bonus": 270
+  },
+  {
+    "what": "Que dia começou a guerra entre Rússia e Ucrânia?",
+    "url": "https://unale.org.br/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-24-at-15.56.15.jpeg",
+    "name": "24 de fevereiro de 2022",
+    "tracos": "❌",
+    "bonus": 150
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://www.ufrgs.br/dicionarioportuguesle/Dicionario/ImgPalavra/apito.png",
+    "name": "apito",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://ogimg.infoglobo.com.br/in/22366158-f5d-4b5/FT1086A/74569980_This-image-released-by-Disney-and-Marvel-Studios27-shows-Chadwick-Boseman-in-a-scene-from-Bl.jpg",
+    "name": "pantera negra",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2022/03/30/sonic-2-1-u82ddrnwr9rm.jpg",
+    "name": "sonic",
+    "tracos": "❌",
+    "bonus": 800
+  },
+  {
+    "what": "QUEM SERIE É ESSE?",
+    "url": "https://p2.trrsf.com/image/fget/cf/1200/1600/middle/images.terra.com/2023/02/13/1235995292-the-flash.jpg",
+    "name": "the flash",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://files.tecnoblog.net/wp-content/uploads/2021/04/Qual-a-ordem-cronologica-dos-filmes-do-Batman-Deny-Freeman-Flickr.jpg",
+    "name": "batman",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "QUEM SERIE É ESSE?",
+    "url": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2021/03/02/superman-and-lois-serienposter.jpg",
+    "name": "superman & lois",
+    "tracos": "❌",
+    "bonus": 600
+  },
+  {
+    "what": "NOME DOS PICARETA?",
+    "url": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d4/Netherite_Pickaxe_JE3.png/revision/latest?cb=20210418192807",
+    "name": "netherite",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DOS PICARETA?",
+    "url": "https://minecraft-max.net/upload/resize_cache/iblock/b31/200_200_14a821bd1cef7808de0ee325b13280e30/b31100a7f3b4cf2c8d5e25310d7fcacd.png",
+    "name": "diamante encantada",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://t.ctcdn.com.br/Vtnl9CmqZl9CXkJi6LgYhLBMz8w=/512x288/smart/filters:format(webp)/i356201.jpeg",
+    "name": "gigantes de aco",
+    "tracos": "❌",
+    "bonus": 650
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/87/32/75/19917610.jpg",
+    "name": "zeus",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "DESENHO",
+    "url": "https://img.freepik.com/vetores-premium/desenho-de-helicoptero_119631-260.jpg?w=826",
+    "name": "helicoptero",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "DESENHO",
+    "url": "https://e7.pngegg.com/pngimages/549/533/png-clipart-rocket-rocket-cartoon.png",
+    "name": "foguete",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://www.blogs.unicamp.br/ciencianerd/wp-content/uploads/sites/113/2019/05/0f4b129e62a767f9471c731572e25be3.jpg",
+    "name": "thanos",
+    "tracos": "❌",
+    "bonus": 600
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://lumiere-a.akamaihd.net/v1/images/dr_strange_2016_002_bcd5d6a3.jpeg?region=1,0,636,636",
+    "name": "doutor estranho",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "Nome dos dimensão minecraft?",
+    "url": "https://static.wikia.nocookie.net/minecraft_br_gamepedia/images/2/2f/Portal_do_Nether.png/revision/latest/scale-to-width-down/250?cb=201508091170",
+    "name": "portal do nether",
+    "tracos": "❌",
+    "bonus": 777
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://cdn.awsli.com.br/600x450/2130/2130731/produto/164182366/a599dbd70c.jpg",
+    "name": "globo terrestre",
+    "tracos": "❌",
+    "bonus": 800
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://static.vecteezy.com/system/resources/previews/009/269/574/non_2x/3d-illustration-old-television-object-png.png",
+    "name": "televisao",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://images.tcdn.com.br/img/img_prod/613137/balde_plastico_15l_arqplast_1579_1_bb1cc4b8f30347c3a46d5a0654110933.png",
+    "name": "balde",
+    "tracos": "❌",
+    "bonus": 100
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://i.pinimg.com/736x/14/9b/87/149b870bd553ac369bd2dc2b1b74a9fe.jpg",
+    "name": "balde de pipoca",
+    "tracos": "❌",
+    "bonus": 650
+  },
+  {
+    "what": "TIME",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTbDtFj1rVoTixRjnoye-iR_YumKnVME1uy2fRpNO9qOpzLYQoUinRYuO_HtAUM0tZv0&usqp=CAU",
+    "name": "fluminense",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "TIME",
+    "url": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Athletico_Paranaense_2019.png",
+    "name": "athletico paranaense",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "TIME",
+    "url": "https://i.pinimg.com/originals/3e/01/b8/3e01b840ee545e7c4bf4df3776f059af.png",
+    "name": "flamengo",
+    "tracos": "❌",
+    "bonus": 550
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://w7.pngwing.com/pngs/541/545/png-transparent-sash-window-wood-stain-house-object-furniture-rectangle-window.png",
+    "name": "janela",
+    "tracos": "❌",
+    "bonus": 550
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://w7.pngwing.com/pngs/541/545/png-transparent-sash-window-wood-stain-house-object-furniture-rectangle-window.png",
+    "name": "janela",
+    "tracos": "❌",
+    "bonus": 550
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://construindodecor.com.br/wp-content/uploads/2015/04/cadeira-de-madeira-simples.jpg",
+    "name": "cadeira",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NATUREZA",
+    "url": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/11/06/1737294746-sonhar-com-arvore.jpg",
+    "name": "arvore",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://classic.exame.com/wp-content/uploads/2022/05/avatar2.jpg?quality=70&strip=info&w=1024",
+    "name": "avatar 2",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPRoZLLUm84EKKfrCiFdEay5ZtJB0Q3l-7Y84Lr_0Xj0oJR3Jw9nBjK_j2qvpH0W-WdK372hSBKYTsHY1WJanUZsb9LZXSJC5kxgbJE7nyCivXsp1Awrhg93xxHEPrtkzfbwmrG9ICz-k/s1600/fast+and+furious+7+f7+poster.jpg",
+    "name": "velozes e furiosos 7",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://i0.wp.com/br.nacaodamusica.com/wp-content/uploads/2020/05/velozes-e-furiosos-8.jpg",
+    "name": "velozes e furiosos 8",
+    "tracos": "❌",
+    "bonus": 170
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://i.ibb.co/Kh9Hgpz/images-3.jpg",
+    "name": "velozes e furiosos 9",
+    "tracos": "❌",
+    "bonus": 400
+  },
+  {
+    "what": "VEICULOS DO GTA V",
+    "url": "https://static.wikia.nocookie.net/gta/images/a/a9/InsurgentPickUpCustom-GTAO-FrontQuarter.png/revision/latest/scale-to-width-down/1200?cb=20200518022453&path-prefix=pt",
+    "name": "picape insurgent",
+    "tracos": "❌",
+    "bonus": 300
+  },
+  {
+    "what": "VEICULOS DO GTA V",
+    "url": "https://static.wikia.nocookie.net/gtawiki/images/b/ba/Brickade6x6-GTAOe-front.png/revision/latest/scale-to-width-down/350?cb=20221220172647",
+    "name": "brickade",
+    "tracos": "❌",
+    "bonus": 230
+  },
+  {
+    "what": "NOME DO JOGOS",
+    "url": "https://warpzone.me/wp-content/uploads/2019/09/gta-san-andreas-esta-disponivel-de-graca-para-pc-veja-como-fazer-o-download-1280x720-e1568937794554.jpg",
+    "name": "grand theft auto san andreas",
+    "tracos": "❌",
+    "bonus": 700
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ccc269e-273c-4dfb-97c4-667cfae749f0/devnt5h-4716d6c2-c9e8-44b9-9298-361c51c3e8d4.png/v1/fill/w_1192,h_670,q_70,strp/rochell_le_artwork___gta_san_andreas__by_vicenzovegas21_devnt5h-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOWNjYzI2OWUtMjczYy00ZGZiLTk3YzQtNjY3Y2ZhZTc0OWYwXC9kZXZudDVoLTQ3MTZkNmMyLWM5ZTgtNDRiOS05Mjk4LTM2MWM1MWMzZThkNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ViPsHa_0uVYx9wSohmw1SQp6Jg55dbVR1fuMFTBOVZQ",
+    "name": "rochell'le",
+    "tracos": "❌",
+    "bonus": 400
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://static.wikia.nocookie.net/gta/images/7/70/CJ-GTASA.png/revision/latest?cb=20170321232122&path-prefix=pt",
+    "name": "carl johnson",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://i.pinimg.com/474x/b1/5f/44/b15f44dae8df23c1f9383bf414cfa8dc.jpg",
+    "name": "rei ayanami",
+    "tracos": "❌",
+    "bonus": 5000
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://cdn.awsli.com.br/600x450/1294/1294025/produto/62683007/4bcd77e6c6.jpg",
+    "name": "uva",
+    "tracos": "❌",
+    "bonus": 100
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://s2.glbimg.com/rl2qA0jqm8CYvBh7ZTnAu8NG6ds=/0x0:1999x400/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2021/N/1/8FdLsPS2G4uiUV4a8MOg/abacaxi.jpg",
+    "name": "abacaxi",
+    "tracos": "❌",
+    "bonus": 400
+  },
+  {
+    "what": "VEICULOS",
+    "url": "https://www.itaquaquecetuba.sp.gov.br/wp-content/uploads/2023/03/Onibus-scaled.jpg",
+    "name": "ônibus",
+    "tracos": "❌",
+    "bonus": 300
+  },
+  {
+    "what": "O SISTEMA OPERACIONAL",
+    "url": "https://s2.glbimg.com/3dtjJ6qCYpDoSwzpKP47e3XhrcA=/0x0:695x391/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2017/M/b/H0vSriQWuVyOcaTiwt2g/windows-10-s-e-restrito-a-apps-da-loja-oficial.png",
+    "name": "windows 10",
+    "tracos": "❌",
+    "bonus": 550
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://static.vecteezy.com/system/resources/previews/013/367/183/non_2x/object-clock-with-square-shape-free-png.png",
+    "name": "relógio",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://thumbs.dreamstime.com/b/tesoura-objeto-isolado-em-um-fundo-branco-elemento-de-desenho-desenhado-%C3%A0-m%C3%A3o-sobre-o-tema-da-agulha-do-corte-bordado-e-seringa-169331362.jpg",
+    "name": "tesoura",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "DESENHO",
+    "url": "https://i.ytimg.com/vi/Iyi4boL5Ta8/maxresdefault.jpg",
+    "name": "caminhão de lixo",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "DESENHO",
+    "url": "https://munckmaq.com.br/wp-content/uploads/2021/04/caminhao-munck-para-locaaao.jpg",
+    "name": "caminhão guindaste",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4567bae964b5a58fcc2b003533770bde07ecc17f6ff624824cf4b8cddbf0678e._V_SX1080_.jpg",
+    "name": "corrida mortal",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://www.justwatch.com/images/backdrop/194759195/s640/need-for-speed-o-filme",
+    "name": "need for speed o filme",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DO JOGOS (ps2)",
+    "url": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/need-for-speed-underground-2-keyart.jpg.adapt.crop191x100.628p.jpg",
+    "name": "need for speed underground 2",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO JOGOS?",
+    "url": "https://meups.com.br/wp-content/uploads/2022/05/GTA-V-7.jpg",
+    "name": "grand theft auto v",
+    "tracos": "❌",
+    "bonus": 650
+  },
+  {
+    "what": "O QUE É CONSIDERADO UMA JOIA?",
+    "url": "https://static.significados.com.br/foto/diamond-316611-1280.jpg",
+    "name": "diamante",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1200px-Flag_of_Guatemala.svg.png",
+    "name": "guatemala",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "O QUE É CONSIDERADO UMA JOIA?",
+    "url": "https://cdn.e-konomista.pt/uploads/2019/07/1-ouro-portugal.jpg",
+    "name": "ouro",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "PLANETA UNIVERSO",
+    "url": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/09/asteroid-4145080_1920.jpg",
+    "name": "asteroide",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "PLANETA UNIVERSO",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/280px-FullMoon2010.jpg",
+    "name": "lua",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "PLANETA UNIVERSO",
+    "url": "https://revistapesquisa.fapesp.br/wp-content/uploads/2019/11/285_miniatura9.jpg",
+    "name": "saturno",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DO JOGOS",
+    "url": "https://cf.shopee.com.br/file/6dfeb9583893db14fe5545de0bf302e6",
+    "name": "cubo magico",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1200px-Flag_of_Canada_%28Pantone%29.svg.png",
+    "name": "canada",
+    "tracos": "❌",
+    "bonus": 100
+  },
+  {
+    "what": "NOME DO APLICATIVO?",
+    "url": "https://play-lh.googleusercontent.com/Wq15hCMPJW-eUz-c4DtnUxHkk2s-pVra14td-E4b05Eo-Cu8Koj6BqPUNULbh9HfjpkC",
+    "name": "discord",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO APLICATIVO?",
+    "url": "https://www.trecebits.com/wp-content/uploads/2022/10/x-app-twitter-800x445.webp",
+    "name": "twitter",
+    "tracos": "❌",
+    "bonus": 350
+  },
+  {
+    "what": "NOME DO APLICATIVO?",
+    "url": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI",
+    "name": "netflix",
+    "tracos": "❌",
+    "bonus": 170
+  },
+  {
+    "what": "NOME DO APLICATIVO?",
+    "url": "https://t.ctcdn.com.br/xOKE7bwagU5731dp81QZxboyrCE=/720x405/smart/filters:format(webp)/i516878.png",
+    "name": "pinterest",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO APLICATIVO?",
+    "url": "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo",
+    "name": "snapchat",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "QUEM É O VERDADEIRO DONO DO FACEBOOK?",
+    "url": "https://capitalist.com.br/wp-content/uploads/2021/09/mark-zuckerberg-scaled.jpg",
+    "name": "mark zuckerberg",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "OBJETO?",
+    "url": "https://m.media-amazon.com/images/I/61Md6YVWZOL._AC_SY679_.jpg",
+    "name": "desentupidor",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "QUEM É O DONO DO MINECRAFT?",
+    "url": "https://www.outerspace.com.br/wp-content/uploads/2019/03/notch.jpg",
+    "name": "markus persson",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "A LENDA QUE ASSOMBRA O MINECRAFT?",
+    "url": "https://www.tricurioso.com/wp-content/uploads/2020/04/lenda-do-herobrine-minecraft-3.jpg",
+    "name": "herobrine",
+    "tracos": "❌",
+    "bonus": 850
+  },
+  {
+    "what": "A LENDA DO MINECRAFT?",
+    "url": "https://yt3.googleusercontent.com/ytc/AL5GRJUaEaaf0bxjRO2GEJRmj47qlwxyjEeO-wfMJa208A=s900-c-k-c0x00ffffff-no-rj",
+    "name": "technoblade",
+    "tracos": "❌",
+    "bonus": 170
+  },
+  {
+    "what": "NOME DA ANIMES?",
+    "url": "https://s2-techtudo.glbimg.com/IsgHcljYGfWVrVp2vTllbDnanqM=/0x0:3264x1438/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/K/S/TCnWshSjiakrYiarIbIA/one-piece-anime-live-action-techtudo-01.jpg",
+    "name": "one piece",
+    "tracos": "❌",
+    "bonus": 975
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://w7.pngwing.com/pngs/996/476/png-transparent-money-bag-money-bag-desktop-wallpaper-bag-objects.png",
+    "name": "bolsa de dinheiro",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://thumbs.dreamstime.com/b/presente-branco-e-azul-envolvido-3d-3751623.jpg",
+    "name": "presente",
+    "tracos": "❌",
+    "bonus": 100
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://img.freepik.com/vetores-gratis/arvore-de-natal-decorada-com-presentes-embaixo_23-2147714516.jpg",
+    "name": "arvore de natal",
+    "tracos": "❌",
+    "bonus": 100
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://e7.pngegg.com/pngimages/106/697/png-clipart-bell-bell.png",
+    "name": "sino",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "DESENHO",
+    "url": "https://i.pinimg.com/originals/4c/51/ba/4c51baf2db7c09323e20334c1c4095c1.png",
+    "name": "ovo de páscoa",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "DESENHO",
+    "url": "https://soloinfantil.com/wp-content/uploads/2020/03/16-desenho-f%C3%A1cil-de-coelho.jpg",
+    "name": "coelho",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "DESENHO",
+    "url": "https://colorindo.org/wp-content/uploads/2019/04/cachorro-para-pintar.jpg",
+    "name": "cachorro",
+    "tracos": "❌",
+    "bonus": 333
+  },
+  {
+    "what": "DESENHO",
+    "url": "https://colorindo.org/wp-content/uploads/2015/11/imprima-f%C3%A1cil.jpg",
+    "name": "gato",
+    "tracos": "❌",
+    "bonus": 666
+  },
+  {
+    "what": "DESENHO",
+    "url": "https://i.pinimg.com/736x/c9/63/bb/c963bbcecaf3cdb576ed3ba91eaeaf24.jpg",
+    "name": "rato",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "DESENHO",
+    "url": "https://i.pinimg.com/originals/5d/0a/7a/5d0a7a1c8f73893bded1727474f19a93.png",
+    "name": "tom e jerry",
+    "tracos": "❌",
+    "bonus": 600
+  },
+  {
+    "what": "DESENHO",
+    "url": "https://prints.ultracoloringpages.com/47b17e3b977a7416aca344b3f5e99bb3.png",
+    "name": "celular",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO APLICATIVO?",
+    "url": "https://img.ibxk.com.br/2016/3/programas/11448722114039802.png",
+    "name": "telegram",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DOS MONSTROS (MINECRAFT)?",
+    "url": "https://cdn.cloudtek.vn/images/2023/06/22/hocmarketing-org-og-14336-the-ultimate-minecraft-warden-concepts-unveiling-mind-blowing-designs-for-every-dimension.jpg",
+    "name": "warden",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DA CIDADE (MINECRAFT)?",
+    "url": "https://minecraft-tutos.com/wp-content/uploads/2022/07/concept-art-city-of-abysses-minecraft-728x1024.jpeg",
+    "name": "cidade ancestral",
+    "tracos": "❌",
+    "bonus": 700
+  },
+  {
+    "what": "O FIM DO MINECRAFT?",
+    "url": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8e/Active_End_Portal.png/revision/latest?cb=20210608164422",
+    "name": "olho de ender",
+    "tracos": "❌",
+    "bonus": 150
+  },
+  {
+    "what": "DESERTO DO MINECRAFT?",
+    "url": "https://i.pinimg.com/736x/54/83/e5/5483e5ee54df44d7ee93f81c6a91fec4.jpg",
+    "name": "templo do deserto",
+    "tracos": "❌",
+    "bonus": 430
+  },
+  {
+    "what": "MINECRAFT DA SELVA?",
+    "url": "https://uploads.spiritfanfiction.com/historias/capitulos/202102/minecraft-esquadrao-monstro-21766416-250220210803.jpg",
+    "name": "templo da selva",
+    "tracos": "❌",
+    "bonus": 650
+  },
+  {
+    "what": "OBJETO?",
+    "url": "https://images-americanas.b2w.io/produtos/37015041/imagens/bola-de-basquete-oficial-basketball-borracha-lifesyle-vazia-laranja/37015041_1_large.jpg",
+    "name": "bola de basquete",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/18bf5eeed986a505f80e340c8a90e8e3.jpg",
+    "name": "titanic",
+    "tracos": "❌",
+    "bonus": 350
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://static1.purebreak.com.br/articles/6/91/99/6/@/353530-voce-nao-vai-acreditar-nestas-20-curiosi-diapo-2.jpg",
+    "name": "alice no pais das maravilhas",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://media.semprefamilia.com.br/semprefamilia/2015/08/guardians-of-the-galaxy-e1439345265509-d51aa4a4.jpg",
+    "name": "guardioes da galaxia",
+    "tracos": "❌",
+    "bonus": 350
+  },
+  {
+    "what": "OBJETO?",
+    "url": "https://media.seudinheiro.com/uploads/2023/02/ovni-1-715x402.jpg",
+    "name": "ovni",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "OBJETO?",
+    "url": "https://static.vecteezy.com/system/resources/previews/008/485/890/non_2x/3d-illustration-object-icon-medal-png.png",
+    "name": "medalha",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "OBJETO? (INGLÊS)",
+    "url": "https://thumbs.dreamstime.com/b/girador-do-dedo-da-inquieta%C3%A7%C3%A3o-brinquedo-moderno-al%C3%ADvio-de-esfor%C3%A7o-103234485.jpg",
+    "name": "spinner",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "OBJETO?",
+    "url": "https://chaveirobougainville.com.br/wp-content/uploads/2020/11/chaves3.png",
+    "name": "chaves",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "OBJETO?",
+    "url": "https://static1.s123-cdn-static-a.com/uploads/2612599/800_5e348ff759b48.jpg",
+    "name": "cone",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "OBJETO?",
+    "url": "https://conceitos.com/wp-content/uploads/Dado.jpg",
+    "name": "dado",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "OBJETO?",
+    "url": "http://i.mlcdn.com.br/portaldalu/fotosconteudo/43434.jpg",
+    "name": "binoculo",
+    "tracos": "❌",
+    "bonus": 550
+  },
+  {
+    "what": "OBJETO?",
+    "url": "https://m.media-amazon.com/images/I/41hEgbSs8gL._AC_UF894,1000_QL80_.jpg",
+    "name": "guarda-chuva",
+    "tracos": "✅",
+    "bonus": 400
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://s2.glbimg.com/kH0D1eqK32a1thZ0ctmO4S64I6U=/e.glbimg.com/og/ed/f/original/2019/05/20/matrix_1999.jpg",
+    "name": "matrix",
+    "tracos": "❌",
+    "bonus": 650
+  },
+  {
+    "what": "NOME DO APLICATIVO?",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png",
+    "name": "youtube",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_the_Customs_of_the_People%27s_Republic_of_China.svg/220px-Flag_of_the_Customs_of_the_People%27s_Republic_of_China.svg.png",
+    "name": "china",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/05/bandeira-da-croacia.jpg",
+    "name": "croacia",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://static.preparaenem.com/2021/03/bandeira-da-polonia.jpg",
+    "name": "polonia",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://sm.ign.com/t/ign_br/screenshot/default/o_248t.1280.jpg",
+    "name": "piratas do caribe a vinganca de salazar",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "ANIMAL",
+    "url": "https://blog.cobasi.com.br/wp-content/uploads/2021/08/porco-domestico-2.png",
+    "name": "porco",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://s2.glbimg.com/4FySwfs-NdOzMNMh8RrjwjnIltQ=/0x0:1280x720/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/k/A/gJLqf5RXGfVY3puKrLgA/adao-negro-foto-divulgacao.jpg",
+    "name": "adao negro",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://www.rbsdirect.com.br/filestore/7/5/0/4/2/1_d48182f3282fa82/124057_906f50269d4128b.jpg?w=700",
+    "name": "cruella",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://p2.trrsf.com/image/fget/cf/1200/300/middle/images.terra.com/2023/02/25/1070078955-puss-in-boots-the-last-wish.jpg",
+    "name": "gato de botas 2",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://thumbs.dreamstime.com/b/objeto-isolado-de-microfone-mic-ou-retro-est%C3%BAdio-grava%C3%A7%C3%A3o-stag-retrorreflector-registro-vetor-equipamento-palco-aparelhos-e-158632361.jpg",
+    "name": "microfone",
+    "tracos": "❌",
+    "bonus": 350
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://thumbs.dreamstime.com/b/paraquedas-no-projeto-vermelho-83853516.jpg",
+    "name": "paraquedas",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://rachacuca.com.br/static/jigsaw/jigsaw-og-share.png",
+    "name": "quebra-cabeça",
+    "tracos": "✅",
+    "bonus": 350
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://d2qdb2914189p2.cloudfront.net/Custom/Content/Products/20/44/20449_quebra-nozes_m2_637236568661094712.jpg",
+    "name": "quebra-nozes",
+    "tracos": "✅",
+    "bonus": 100
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://static.preparaenem.com/conteudo_legenda/cc190a5325d4d7b306ed1087b3444032.jpg",
+    "name": "telescopio",
+    "tracos": "❌",
+    "bonus": 270
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://a-static.mlcdn.com.br/450x450/urso-de-pelucia-gigante-teddy-grande-90-cm-luckbabystore/luckbabystore/15889888408/efe39c1bff8152cba8f823da1275310d.jpeg",
+    "name": "urso de pelucia",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://thumbs.dreamstime.com/b/f%C3%A3-real%C3%ADstico-do-vetor-ventilador-55020513.jpg",
+    "name": "ventilador",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://s2.glbimg.com/ieGgOgJux20CEGRtj_DDpMA89e0=/0x0:1190x882/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/y/y/7ElXaiR1u6TibooH5qew/atemoia.jpg",
+    "name": "atemoia",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "FRUTAS",
+    "url": "http://alimentos.com.br/wp-content/uploads/2020/03/shutterstock_111709433.jpg",
+    "name": "babaco",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://images.tcdn.com.br/img/img_prod/753894/muda_de_caqui_chocolate_altura_de_0_80_cm_a_1_20_m_909_1_d60cb2741d7a83a0c19a6b0423659d6a.jpg",
+    "name": "caqui chocolate",
+    "tracos": "❌",
+    "bonus": 130
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://www.todafruta.com.br/wp-content/uploads/2016/07/castanha-portuguesa-300x185.jpg",
+    "name": "castanha portuguesa",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://content.paodeacucar.com/wp-content/uploads/2020/05/frutas-c%C3%ADtricas-intro.jpg",
+    "name": "citrus em geral",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://2.bp.blogspot.com/-d8Gl2-jNo6k/WqQjTK_ULYI/AAAAAAAAaaw/stnjXwpZKLEKM8u9fJFpfM-yRqImtAMWQCLcBGAs/s1600/Fruta%2Bpao%2Bsem%2Bsementes%2Bartocarpus%2Baltilis%2Bmudas%2B1.jpg",
+    "name": "fruta-pao",
+    "tracos": "✅",
+    "bonus": 250
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://cf.shopee.com.br/file/26c6b1956601b9195a7e8af7cd98e490",
+    "name": "groselha vermelha",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://www.sitiodamata.com.br/pub/media/catalog/product/cache/02a967fa0e464fd60865ccf512e40f92/j/a/jabuticaba-branca-myrciaria-aureana_3nd.jpg",
+    "name": "jabuticaba branca",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://vitat.com.br/wp-content/uploads/2021/07/mana-cubiu-e1625756059654.jpg",
+    "name": "mana-cubiu",
+    "tracos": "✅",
+    "bonus": 170
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://cdn.awsli.com.br/496/496853/produto/75351729/0c4b6a6d3c.jpg",
+    "name": "uva japonesa",
+    "tracos": "❌",
+    "bonus": 120
+  },
+  {
+    "what": "NOVELAS?",
+    "url": "https://s2.glbimg.com/GBvXU09UjA2FZlQVHit9gRtdGLc=/0x0:2560x300/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/Q/6/vtuFWXRSyAj1flRwOJ7Q/elenco-a-forca-do-querer.png",
+    "name": "a forca do querer",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOVELAS?",
+    "url": "https://www.tvpop.com.br/wp-content/uploads/2021/04/avenida-brasil-foto-divulgacao-tv-globo-tvpop-1024x576.jpg",
+    "name": "avenida brasil",
+    "tracos": "❌",
+    "bonus": 350
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://capricho.abril.com.br/wp-content/uploads/2023/01/M3GAN.jpg?quality=85&strip=info&w=200&h=666&crop=1",
+    "name": "m3gan",
+    "tracos": "❌",
+    "bonus": 400
+  },
+  {
+    "what": "NOME DO FILME (TERROR)",
+    "url": "https://images.justwatch.com/poster/132625026/s592/sobrenatural",
+    "name": "sobrenatural",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME (TERROR)",
+    "url": "https://cinemaqui.com.br/wp-content/uploads/2013/11/sobrenatural-capitulo-2-destaque.jpg",
+    "name": "sobrenatural-capitulo 2",
+    "tracos": "✅",
+    "bonus": 170
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://poltronanerd.com.br/wp-content/uploads/2022/01/poltrona-mortal_kombat_2021_bg.jpg",
+    "name": "mortal kombat",
+    "tracos": "❌",
+    "bonus": 650
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://img.olhardigital.com.br/wp-content/uploads/2022/11/sorria-filme.jpg",
+    "name": "sorria",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://cinepop.com.br/wp-content/uploads/2021/07/esquadra%CC%83o-suicida.jpeg",
+    "name": "esquadrao suicida",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://cinepop.com.br/wp-content/uploads/2021/06/viuvanegracritica.jpg",
+    "name": "viuva negra",
+    "tracos": "❌",
+    "bonus": 700
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://cinepop.com.br/wp-content/uploads/2021/09/aranha-capa.jpg",
+    "name": "homem-aranha",
+    "tracos": "✅",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://cinepop.com.br/wp-content/uploads/2021/02/ryan-reynolds-green-lantern.jpg",
+    "name": "lanterna verde",
+    "tracos": "❌",
+    "bonus": 800
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://cinepop.com.br/wp-content/uploads/2020/12/gal-gadot-mulher-maravilha-1.jpg",
+    "name": "mulher-maravilha",
+    "tracos": "✅",
+    "bonus": 850
+  },
+  {
+    "what": "NOME DO FILME (TERROR)",
+    "url": "https://www.casinhaarrumada.com/wp-content/uploads/2017/10/Filme-It-A-Coisa-1.png",
+    "name": "it - a coisa",
+    "tracos": "✅",
+    "bonus": 170
+  },
+  {
+    "what": "NOME DO FILME (TERROR)",
+    "url": "https://pipocanamadrugada.com.br/site/wp-content/uploads/2016/07/Annabelle_pipoca-na-madrugada-.jpg",
+    "name": "annabelle",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME (TERROR)",
+    "url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2022/07/2447936.jpg",
+    "name": "um lugar silencioso",
+    "tracos": "❌",
+    "bonus": 700
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cherry_Stella444.jpg",
+    "name": "cereja",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://globaltranslations.com.br/wp-content/uploads/2017/07/5.-Abertura-Venezuela-1-890x400.png",
+    "name": "venezuela",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "MATÉRIA",
+    "url": "https://static.todamateria.com.br/img/categories/historia.png",
+    "name": "historia",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "OBJETO?",
+    "url": "https://www.gifel.com.br/wp-content/uploads/2016/09/hidrante.jpg",
+    "name": "hidrante",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "ALIMENTO",
+    "url": "https://www.infoescola.com/wp-content/uploads/2011/01/tomate_345187874.jpg",
+    "name": "tomate",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "INSTRUMENTO MUSICAL",
+    "url": "https://musictalia.com.br/loja/wp-content/uploads/2019/12/SAXOFONE-ALTO-BENSON-BSA-1l-1-1.jpg",
+    "name": "saxofone",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://s2.static.brasilescola.uol.com.br/be/2021/08/bandeira-do-cazaquistao.jpg",
+    "name": "cazaquistao",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "ANIMAL",
+    "url": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/06/raposa-vermelha.jpg",
+    "name": "raposa",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "ANIMAL",
+    "url": "https://s5.static.brasilescola.uol.com.br/be/2021/04/rinoceronte-branco.jpg",
+    "name": "rinoceronte",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://www.tvpop.com.br/wp-content/uploads/2022/03/malevola-temperatura-maxima-foto-reproducao-tvpop.png",
+    "name": "malevola",
+    "tracos": "❌",
+    "bonus": 830
+  },
+  {
+    "what": "NOME DO FILME (TERROR)",
+    "url": "https://static.wikia.nocookie.net/fiction-battlefield/images/9/91/2689798.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg/revision/latest?cb=20190427183212&path-prefix=pt-br",
+    "name": "a freira",
+    "tracos": "❌",
+    "bonus": 340
+  },
+  {
+    "what": "PLANETA UNIVERSO",
+    "url": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2019/07/galaxia-espiral.jpg",
+    "name": "galaxia",
+    "tracos": "❌",
+    "bonus": 260
+  },
+  {
+    "what": "PLANETA UNIVERSO",
+    "url": "https://img.olhardigital.com.br/wp-content/uploads/2021/05/Vista-de-Venus-sem-nuvens-em-3D-1024x576.jpg",
+    "name": "venus",
+    "tracos": "❌",
+    "bonus": 300
+  },
+  {
+    "what": "PLANETA UNIVERSO",
+    "url": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/04/planeta-urano.jpg",
+    "name": "urano",
+    "tracos": "❌",
+    "bonus": 650
+  },
+  {
+    "what": "O SISTEMA OPERACIONAL",
+    "url": "https://s2.glbimg.com/uRJD1EFGPmuWo-YX846AZHun9JE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/b/v/Nq8dV1SRKivsTGMaHB1w/windows-11-1.png",
+    "name": "windows 11",
+    "tracos": "❌",
+    "bonus": 550
+  },
+  {
+    "what": "PLANETA UNIVERSO",
+    "url": "https://s2.glbimg.com/emuPhkYMXQo4lso7NI2nh2Lth9E=/e.glbimg.com/og/ed/f/original/2018/09/07/pluto-1315109_960_720.jpg",
+    "name": "plutao",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "PLANETA UNIVERSO",
+    "url": "https://s2.glbimg.com/EwejtBMEF35DRv4lg-EP1njAa0A=/e.glbimg.com/og/ed/f/original/2019/08/09/jupiter-inset.jpg",
+    "name": "jupiter",
+    "tracos": "❌",
+    "bonus": 400
+  },
+  {
+    "what": "PLANETA UNIVERSO",
+    "url": "https://s1.static.brasilescola.uol.com.br/be/2021/11/planeta-marte.jpg",
+    "name": "marte",
+    "tracos": "❌",
+    "bonus": 350
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://saude.abril.com.br/wp-content/uploads/2017/07/abacate3.jpg?quality=85&strip=info&w=680&h=453&crop=1",
+    "name": "abacate",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://mercadoorganico.com/9479-large_default/abacaxi-perola-organico-un-osm.jpg",
+    "name": "abacaxi perola",
+    "tracos": "❌",
+    "bonus": 450
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Blackberries_%28Rubus_fruticosus%29.jpg/250px-Blackberries_%28Rubus_fruticosus%29.jpg",
+    "name": "amora",
+    "tracos": "❌",
+    "bonus": 400
+  },
+  {
+    "what": "FRUTAS",
+    "url": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/caju-fruto-cajueiro-537e5ce3bc445.jpg",
+    "name": "caju",
+    "tracos": "❌",
+    "bonus": 270
+  },
+  {
+    "what": "ANIMAL",
+    "url": "https://s2.glbimg.com/2n0aXFpknBSuBM_-UXw6D1YAXZE=/s.glbimg.com/jo/g1/f/original/2014/12/23/900-073-c.jpg",
+    "name": "borboleta",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://s4.static.brasilescola.uol.com.br/be/2020/10/1-dinamite.jpg",
+    "name": "dinamite",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DO APLICATIVO?",
+    "url": "https://play-lh.googleusercontent.com/rIvZQ_H3hfmexC8vurmLczLtMNBFtxCEdmb2NwkSPz2ZuJJ5nRPD0HbSJ7YTyFGdADQ",
+    "name": "clash royale",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "NOME?",
+    "url": "https://daqui.opopular.com.br/image/policy:1.2609382:1725991334/image.jpg",
+    "name": "felipe neto",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME?",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7Q9Y8yUSGTfVda0MJkbYwNDTWERmTHo_jA&s",
+    "name": "flakes power",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME?",
+    "url": "https://yt3.googleusercontent.com/ytc/AL5GRJXC7OWQOG6qc3kkvhc517nMld2AYysPRUHIEIIoOA=s900-c-k-c0x00ffffff-no-rj",
+    "name": "nery",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME?",
+    "url": "https://esports.as.com/2018/03/07/Surgical_Goblin.jpeg?hash=876f57dd8969712d0e058ec24ae872dc274e24ca",
+    "name": "surgical goblin",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME?",
+    "url": "https://www.clashroyaledicas.com/wp-content/uploads/2017/11/atchiin-clash-royale-crown-championship.jpg",
+    "name": "atchiin",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME?",
+    "url": "https://s2.glbimg.com/48vamLb4nw81DIrNzE0jAgbXh00=/0x0:873x1164/873x1164/smart/filters:strip_icc()/s2.glbimg.com/MGvZ4enulHY8gOrrdM3lTG76Rvk%3D/600x0/filters%3Aquality%2870%29/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Y/r/cW9z6cRrCAAzvclNx8Dw/bruno-playhard-loud-reproducao-instagram.jpg",
+    "name": "bruno",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME?",
+    "url": "https://www.clashroyaledicas.com/wp-content/uploads/2017/11/atchiin-clash-royale-crown-championship.jpg",
+    "name": "atchiin",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "BOT DO DISCORD?",
+    "url": "https://loritta.website/assets/img/loritta_gabizinha_v1.png",
+    "name": "loritta",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "BOT DO DISCORD?",
+    "url": "https://pbs.twimg.com/profile_images/1596115537481940992/Ea4pTA2G_400x400.jpg",
+    "name": "mee6",
+    "tracos": "❌",
+    "bonus": 230
+  },
+  {
+    "what": "BOT DO DISCORD?",
+    "url": "https://freestuffbot.xyz/assets/icons/180.png",
+    "name": "freestuff",
+    "tracos": "❌",
+    "bonus": 500
+  },
+  {
+    "what": "BOT DO DISCORD?",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmx1aHCJeTqS2h_-C_mMGuTuyQxZYPqmb88KnI_6oSdWQeDDweAShzI9hLF31OH2kbtKY&usqp=CAU",
+    "name": "carl",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME?",
+    "url": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt112fe908ac89026a/63ef5df01194533ca01eb4c1/GOAL_-_Blank_WEB_-_Facebook_-_2023-02-17T101101.164.png",
+    "name": "neymar",
+    "tracos": "❌",
+    "bonus": 700
+  },
+  {
+    "what": "NOME?",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg",
+    "name": "messi",
+    "tracos": "❌",
+    "bonus": 800
+  },
+  {
+    "what": "NOME?",
+    "url": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt943c9f051f0087c0/639f1d7d03c7a66c44782060/GettyImages-1245184407.jpg?auto=webp&format=jpg&quality=100",
+    "name": "cristiano ronaldo",
+    "tracos": "❌",
+    "bonus": 850
+  },
+  {
+    "what": "NOME?",
+    "url": "https://conteudo.imguol.com.br/c/esporte/53/2022/06/25/gabigol-comemora-gol-anotado-pelo-flamengo-contra-o-america-mg-1656197585306_v2_3x4.jpg",
+    "name": "gabigol",
+    "tracos": "❌",
+    "bonus": 170
+  },
+  {
+    "what": "NOME DO JOGOS?",
+    "url": "https://media.rockstargames.com/rockstargames-newsite/uploads/167c41006f2356ed140f67748a1c190bb59dcd62.jpg",
+    "name": "grand theft auto iv",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DO JOGOS?",
+    "url": "https://images.cgames.de/images/gsgp/4/gta-vice-city-spielzeit_6158477.jpg",
+    "name": "grand theft auto vice city",
+    "tracos": "❌",
+    "bonus": 810
+  },
+  {
+    "what": "APOCALIPSE?",
+    "url": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_tornado21.jpg?quality=70&strip=info&w=960",
+    "name": "tornado",
+    "tracos": "❌",
+    "bonus": 777
+  },
+  {
+    "what": "APOCALIPSE?",
+    "url": "https://orlario.com.vc/wp-content/uploads/2020/07/tsunami.jpg",
+    "name": "tsunami",
+    "tracos": "❌",
+    "bonus": 350
+  },
+  {
+    "what": "APOCALIPSE?",
+    "url": "https://super.abril.com.br/wp-content/uploads/2018/03/nem-doeu-ser-humano-prc3a9-histc3b3rico-se-deu-bem-apc3b3s-erupc3a7c3a3o-massiva-hc3a1-75-mil-anos.png?w=1024&resize=1200,800",
+    "name": "vulcao",
+    "tracos": "❌",
+    "bonus": 550
+  },
+  {
+    "what": "APOCALIPSE?",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krunkwerke_-_IMG_4515_%28by-sa%29.jpg/1200px-Krunkwerke_-_IMG_4515_%28by-sa%29.jpg",
+    "name": "raio",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "APOCALIPSE?",
+    "url": "https://www.eusemfronteiras.com.br/wp-content/uploads/2022/02/sdecoret-123RF-810x591.jpg",
+    "name": "fim do mundos",
+    "tracos": "❌",
+    "bonus": 270
+  },
+  {
+    "what": "NOME DO APLICATIVO??",
+    "url": "https://s2-techtudo.glbimg.com/hoNutqtb86LhWUpcvxKCsGMZAnc=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/V/1/mGGywJQQykpMevJh2qOw/logo-dysneu-plus.jpg",
+    "name": "disney",
+    "tracos": "❌",
+    "bonus": 230
+  },
+  {
+    "what": "NOME DO FILME (TERROR)",
+    "url": "https://assets-prd.ignimgs.com/2022/09/30/childs-play-3-1664562913939.jpg",
+    "name": "chucky",
+    "tracos": "❌",
+    "bonus": 50
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://www.cafecomfilme.com.br/images/capa/1217/battleshipabatalhadosmares600.png",
+    "name": "battleship - a batalha dos mares",
+    "tracos": "✅",
+    "bonus": 400
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://www.tribunapr.com.br/wp-content/uploads/sites/56/2021/07/05113909/a-guerra-do-amanha-critica-2.jpg",
+    "name": "a guerra do amanha",
+    "tracos": "❌",
+    "bonus": 840
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://www.tricurioso.com/wp-content/uploads/2018/10/quem-inventou-cola-tricurioso.jpg",
+    "name": "cola",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://img.freepik.com/vetores-premium/botao-de-costura-verde-realista-com-furos-fecho-acessorio-de-roupa-elemento-plastico-decorativo_341509-4153.jpg?w=250",
+    "name": "botao de costura",
+    "tracos": "❌",
+    "bonus": 550
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://a-static.mlcdn.com.br/800x560/lupa-de-mao-100mm-com-cabo-glass-lente-zoom-aumento-jonness-distribuicao/jonnessdistribuicao/749953303/ed1d190d369a98addb455d43edd07170.jpg",
+    "name": "lupa de mao",
+    "tracos": "❌",
+    "bonus": 350
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://img.freepik.com/psd-premium/conceito-de-objeto-de-calendario-3d_510843-202.jpg?w=250",
+    "name": "calendario",
+    "tracos": "❌",
+    "bonus": 650
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://m.media-amazon.com/images/I/518-zv7dl3L._AC_UF894,1000_QL80_.jpg",
+    "name": "regua",
+    "tracos": "❌",
+    "bonus": 100
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://cdnv2.moovin.com.br/marbig/imagens/produtos/det/grampeador-25-folhas-metalico-de-mesa-g104-preto-img-58467_1010240455268404.jpg",
+    "name": "grampeador",
+    "tracos": "❌",
+    "bonus": 350
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://thumbs.dreamstime.com/b/objeto-branco-da-calculadora-para-calcular-no-fundo-branco-73759801.jpg",
+    "name": "calculador",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://img.freepik.com/psd-premium/3d-ilustracao-simples-icone-beleza-objeto-batom_372682-2631.jpg",
+    "name": "batom",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DO VEICULOS?",
+    "url": "https://f.i.uol.com.br/fotografia/2022/05/12/1652359175627d000787aea_1652359175_3x2_rt.jpg",
+    "name": "tanque",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO VEICULOS?",
+    "url": "https://img.olx.com.br/images/48/483153437946230.jpg",
+    "name": "caminhão militar",
+    "tracos": "❌",
+    "bonus": 850
+  },
+  {
+    "what": "VEICULOS DO GTA V",
+    "url": "https://static.wikia.nocookie.net/gta/images/7/76/Hydra-GTAO-Front.png/revision/latest?cb=20221011143433&path-prefix=ru",
+    "name": "hydra",
+    "tracos": "❌",
+    "bonus": 700
+  },
+  {
+    "what": "NOME DOS PERSONAGEM (THE FLASH)",
+    "url": "http://pm1.narvii.com/6473/cf2a97fe11f7de53cd86b486690047ef4caa4eb8_00.jpg",
+    "name": "savitar",
+    "tracos": "❌",
+    "bonus": 170
+  },
+  {
+    "what": "NOME DOS PERSONAGEM (THE FLASH)",
+    "url": "https://static.wikia.nocookie.net/flashverseserie/images/5/57/Zoom_terra-2_new.jpg/revision/latest?cb=2019101712930&path-prefix=pt-br",
+    "name": "zoom",
+    "tracos": "❌",
+    "bonus": 850
+  },
+  {
+    "what": "NOME DOS PERSONAGEM (THE FLASH)",
+    "url": "https://comodonerd.com.br/wp-content/uploads/2021/02/flash-reverso-3-1024x576.jpg",
+    "name": "reverso",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO JOGOS",
+    "url": "https://cdn2.unrealengine.com/15stw-blog-evergreen-blue-newsheader-1920x1080-1920x1080-fe7b8ca2e7db.jpg",
+    "name": "fortnite",
+    "tracos": "❌",
+    "bonus": 300
+  },
+  {
+    "what": "NOME DO JOGOS",
+    "url": "https://image.api.playstation.com/vulcan/ap/rnd/202110/1908/66WgIpQaNGoL2sXlsjiVB370.jpg",
+    "name": "grand theft auto the trilogy",
+    "tracos": "❌",
+    "bonus": 230
+  },
+  {
+    "what": "NOME DO JOGOS",
+    "url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2119/Nn3vQfT5fzwXUCo5yxw37WIf.png",
+    "name": "detroit become human",
+    "tracos": "❌",
+    "bonus": 235
+  },
+  {
+    "what": "PLANETA UNIVERSO",
+    "url": "https://s1.static.brasilescola.uol.com.br/be/2022/09/2-sistema-solar.jpg",
+    "name": "sistema solar",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/FswlpcqGu0kNbm3fpNO59g/1200x675.jpg",
+    "name": "anaconda 2 - a cacada pela orquidea sangrenta",
+    "tracos": "✅",
+    "bonus": 950
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://capricho.abril.com.br/wp-content/uploads/2019/10/coringa-joker-1.jpg",
+    "name": "coringa",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://s2.glbimg.com/r8RENjlYC0FHqciYu_pWaVUmk9w=/e.glbimg.com/og/ed/f/original/2022/06/29/a-orfa-1.jpeg",
+    "name": "a orfa",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://static.wikia.nocookie.net/disneyprincesas/images/f/fb/Enrolados.png/revision/latest/smart/width/250/height/250?cb=20121013150455&path-prefix=pt-br",
+    "name": "enrolados",
+    "tracos": "❌",
+    "bonus": 200
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://images.universohq.com/2015/07/HomemFormiga_des.jpg",
+    "name": "homem-formiga",
+    "tracos": "✅",
+    "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://s2.glbimg.com/8ITevm2KPa0U2Fa38-83dmMH-iQ=/e.glbimg.com/og/ed/f/original/2018/12/18/bgfbgf.jpg",
+    "name": "as cronicas de narnia",
+    "tracos": "❌",
+    "bonus": 650
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://t2.tudocdn.net/304067?w=1920",
+    "name": "scooby-doo",
+    "tracos": "✅",
+    "bonus": 900
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://roraimaemtempo.com.br/wp-content/uploads/2022/08/predator-hunting-grounds-announced-gameplay-details-revealed_2g83-860x484.jpg",
+    "name": "o predador",
+    "tracos": "❌",
+    "bonus": 850
+  },
+  {
+    "what": "NOME DO JOGOS (ps2)",
+    "url": "https://3.bp.blogspot.com/-lIWtCdy_fcA/W8kQO9OBVFI/AAAAAAAABD0/UXlmsR9Y5mcsvRkuNW5ienyOoO3TfZqAQCLcBGAs/s300/as.jpg",
+    "name": "burnout 3",
+    "tracos": "❌",
+    "bonus": 170
+  },
+  {
+    "what": "NOME DO JOGOS",
+    "url": "https://cdn.ome.lt/WGgEhHRE4VMczZJK2P1NSUqcwaA=/1200x630/smart/extras/conteudos/god-of-war-home-1200.jpg",
+    "name": "god of war",
+    "tracos": "❌",
+    "bonus": 170
+  },
+  {
+    "what": "BIOLOGIA",
+    "url": "https://static.significados.com.br/foto/sign.-dna-imagem-social.jpg",
+    "name": "dna",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://img.freepik.com/psd-premium/icone-3d-da-estrela-de-natal_92753-4111.jpg?w=250",
+    "name": "estrela",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://images.tcdn.com.br/img/img_prod/696508/semaforo_cidade_tipo_1_sbl_3953_3_1_0cc8ec06345d1938449415db6bdb00ab.jpg",
+    "name": "semaforo",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "FRUTA",
+    "url": "https://superboaopcao.com.br/storage/uploads/l9wifSp8TsFd7WSyt1t0jzY9PHiVTuD4Ni73hZp7.jpeg",
+    "name": "melancia",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "FRUTA",
+    "url": "https://sindafep.org.br/media/img_noticias/fig-fruit.jpg",
+    "name": "figo",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DOS PERSONAGEM?",
+    "url": "https://www.clarin.com/img/2021/06/09/7GBM3jqO7_720x0__1.jpg",
+    "name": "loki",
+    "tracos": "❌",
+    "bonus": 250
+  },
+  {
+    "what": "TIME?",
+    "url": "https://s2-ge.glbimg.com/VbkN9gPuBIcbxfar5pYVFJ2iyvo=/0x255:1200x1279/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/p/N/49fbpWThAvqpR0N87OZQ/fse7rcjxmaavrhe.jpg",
+    "name": "atletico mg",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DA ANIMES?",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4K-eVPOJSxYc9Yukgb8psFwZwwnwUMlYTmnfzebLnPh4idUZLu-OWA858M3HhI54Yw0&usqp=CAU",
+    "name": "loli",
+    "tracos": "❌",
+    "bonus": 170
+  },
+  {
+    "what": "NOME DO JOGOS",
+    "url": "https://s2.glbimg.com/FsuF7vwP_J4SvXl70F7EQp2PRkM=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/0/D/HvoglVQMeGlPpCJx8Q6Q/ss-0b7581a5dda7eddce4487dca1aa810fcb7a2db21.1920x1080.jpg",
+    "name": "minecraft legends",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DOS MONSTROS (MINECRAFT)",
+    "url": "https://i.ytimg.com/vi/0UcRAE94yXU/maxresdefault.jpg",
+    "name": "wither storm",
+    "tracos": "❌",
+    "bonus": 400
+  },
+  {
+    "what": "NOME DOS MONSTROS (MINECRAFT)",
+    "url": "https://i.ytimg.com/vi/CfYIWy6BPcg/maxresdefault.jpg",
+    "name": "enderman",
+    "tracos": "❌",
+    "bonus": 460
+  },
+  {
+    "what": "NOME DOS MONSTROS (MINECRAFT)",
+    "url": "https://i.ytimg.com/vi/Jo-7RXJ321w/maxresdefault.jpg",
+    "name": "bruxa",
+    "tracos": "❌",
+    "bonus": 370
+  },
+  {
+    "what": "NOME DOS PERSONAGEM (MINECRAFT)",
+    "url": "https://static.wikia.nocookie.net/explodingtnt/images/8/83/Dream.png/revision/latest?cb=20210323081049",
+    "name": "dream",
+    "tracos": "❌",
+    "bonus": 300
+  },
+  {
+    "what": "NOME DO FILME (TERROR)",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKA1OYpArCeYYRH6djxTu7NVvjr0Wd9ShpxfWIh01AqYGj2JcIux429xq3QDwT_1mIvgUKqtgC0gj2n679Ep_IQmaHCyOed-BkFNOfJ8vxxvn0bYT7oJzoBZSKkInQWvkifWrwUms4hv8OUKZgStFiafoz-T8uATMRoqvCxY49hv4-AcQ4O8sqN1WhUQ/w1200-h630-p-k-no-nu/sbrntrlprtverm01.jpg",
+    "name": "sobrenatural a porta vermelha",
+    "tracos": "❌",
+    "bonus": 940
+  },
+  {
+    "what": "LOCALIZAÇÃO",
+    "url": "https://static.vecteezy.com/system/resources/previews/011/019/770/original/3d-pin-point-map-gps-3d-rendering-png.png",
+    "name": "gps",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DA APPS",
+    "url": "https://play-lh.googleusercontent.com/U_NE4YtUoSzUU-wa7spbP0vB9VqrVxSrcjodyvGo-EsMDo4Pr-hLmutRuVXNz4V_eg",
+    "name": "tim",
+    "tracos": "❌",
+    "bonus": 380
+  },
+  {
+    "what": "NOME DO JOGOS",
+    "url": "https://meups.com.br/wp-content/uploads/2021/04/The-Last-of-Us-4-900x503.jpg",
+    "name": "the last of us",
+    "tracos": "❌",
+    "bonus": 800
+  },
+  {
+    "what": "NOME DA APPS",
+    "url": "https://t.ctcdn.com.br/Gwk3Ds9IvJxnELVwTcb7Yl7rolE=/400x400/smart/i618809.png",
+    "name": "whatsapp",
+    "tracos": "❌",
+    "bonus": 800
+  },
+  {
+    "what": "NOME DO CARTAS (CLASH ROYALE)",
+    "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b5c2b5a-6fbb-4022-b177-1d2e2cb34fec/daoninw-e4645e5f-ecba-4327-ae8f-c610fabb1386.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiNWMyYjVhLTZmYmItNDAyMi1iMTc3LTFkMmUyY2IzNGZlY1wvZGFvbmludy1lNDY0NWU1Zi1lY2JhLTQzMjctYWU4Zi1jNjEwZmFiYjEzODYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.h-k5KY1LkyqlRu0l3VZbMnDpIpkw-WzQkQdz1lfGJu4",
+    "name": "sparky",
+    "tracos": "❌",
+    "bonus": 4500
+  },
+  {
+    "what": "NOME DOS PERSONAGEM (MARVEL)",
+    "url": "https://img.freepik.com/fotos-premium/os-incriveis-papeis-de-parede-do-hulk-papeis-de-parede-hd_853177-21137.jpg",
+    "name": "hulk",
+    "tracos": "❌",
+    "bonus": 1000
+  },
+  {
+    "what": "NOME DO FILMES",
+    "url": "https://meups.com.br/wp-content/uploads/2023/08/The-Walking-Dead-Destinies.jpg",
+    "name": "the walking dead",
+    "tracos": "❌",
+    "bonus": 1500
+  },
+  {
+    "what": "NOME? (LIVE GTA V)",
+    "url": "https://i.ytimg.com/vi/tWqAT99U74U/maxresdefault.jpg",
+    "name": "paulinho",
+    "tracos": "❌",
+    "bonus": 2000
+  },
+  {
+    "what": "NOME DOS PERSONAGEM (GTA)",
+    "url": "https://static.wikia.nocookie.net/gta/images/b/bd/BigSmoke-GTASA.jpg/revision/latest/scale-to-width/360?cb=20170725174702&path-prefix=pt",
+    "name": "big smoke",
+    "tracos": "❌",
+    "bonus": 1600
+  },
+  {
+    "what": "NOME DO JOGOS",
+    "url": "https://noticias.maisesports.com.br/wp-content/uploads/2020/07/rocket-league-wallpaper-115-1920x1080-1.jpg",
+    "name": "rocket league",
+    "tracos": "❌",
+    "bonus": 1700
+  },
+  {
+    "what": "NOME DOS PERSONAGEM",
+    "url": "https://upload.wikimedia.org/wikipedia/pt/3/37/Saitama_One_Punch-Man.png",
+    "name": "saitama",
+    "tracos": "❌",
+    "bonus": 1800
+  },
+  {
+    "what": "VEICULOS",
+    "url": "https://preview.thenewsmarket.com/Previews/CNHA/StillAssets/1920x1080/666865.jpg",
+    "name": "trator",
+    "tracos": "❌",
+    "bonus": 1900
+  }
+]
