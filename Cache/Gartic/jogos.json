@@ -127,7 +127,7 @@
   {
     "what": "Jogo",
     "name": "Overcooked",
-    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/jogos_overcooked_1765240973114.jpg"
+    "url": "https://i.postimg.cc/Gt39nBxr/Overcooked_2.jpg"
   },
   {
     "what": "Jogo",
@@ -163,5 +163,10 @@
     "name": "Brawl Stars",
     "what": "Jogo",
     "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/jogos_Brawl_Stars_1764808724235.png"
+  },
+  {
+    "name": "Cult of the Lamb",
+    "what": "Jogo",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/jogos_Cult_of_the_Lamb_1765683765135.png"
   }
 ]
