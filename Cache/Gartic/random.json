@@ -1135,7 +1135,7 @@
   },
   {
     "what": "OBJETO",
-    "url": "https://static.preparaenem.com/conteudo_legenda/cc190a5325d4d7b306ed1087b3444032.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_telescopio_1770247781897.jpg",
     "name": "telescopio",
     "tracos": "❌",
     "bonus": 270
@@ -1811,6 +1811,13 @@
     "name": "sistema solar",
     "tracos": "❌",
     "bonus": 250
+  },
+  {
+    "what": "NOME DO FILME",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/FswlpcqGu0kNbm3fpNO59g/1200x675.jpg",
+    "name": "anaconda 2 - a cacada pela orquidea sangrenta",
+    "tracos": "✅",
+    "bonus": 950
   },
   {
     "what": "NOME DO FILME",
