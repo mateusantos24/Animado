@@ -75,9 +75,9 @@
     "url": "https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nationalgeographic548814_0.jpg?w=1900&h=1368"
   },
   {
-    "what": "UNIVERSO",
     "name": "Nebulosa",
-    "url": "https://conceitosdomundo.pt/wp-content/uploads/2021/10/nebulosa.jpg"
+    "what": "UNIVERSO",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/universo_Nebulosa_1776543845093.jpg"
   },
   {
     "what": "UNIVERSO",
@@ -87,6 +87,6 @@
   {
     "what": "UNIVERSO",
     "name": "Galáxia",
-    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/universo_galxia_1765599978463.jpg"
+    "url": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/11/galaxia-espiral.jpg"
   }
 ]
