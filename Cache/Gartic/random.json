@@ -631,7 +631,7 @@
   },
   {
     "what": "VEICULOS",
-    "url": "https://www.itaquaquecetuba.sp.gov.br/wp-content/uploads/2023/03/Onibus-scaled.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_onibus_1776640371590.jpg",
     "name": "ônibus",
     "tracos": "❌",
     "bonus": 300
@@ -1198,7 +1198,7 @@
   },
   {
     "what": "FRUTAS",
-    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_groselha_vermelha_1776640052709.br/file/26c6b1956601b9195a7e8af7cd98e490",
+    "url": "https://cf.shopee.com.br/file/26c6b1956601b9195a7e8af7cd98e490",
     "name": "groselha vermelha",
     "tracos": "❌",
     "bonus": 380
