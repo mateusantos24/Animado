@@ -211,13 +211,6 @@
   },
   {
     "what": "ANIMAL",
-    "url": "https://i.pinimg.com/originals/2c/78/ca/2c78cafcf14e11cd89ee24f992b6e081.jpg",
-    "name": "urso",
-    "tracos": "❌",
-    "bonus": 100
-  },
-  {
-    "what": "ANIMAL",
     "url": "https://s3.amazonaws.com/media.wikiaves.com.br/images/3291/1923156_b7fe7934e17e638d9fc3b2fa7c870fef.jpg",
     "name": "urubu-preto",
     "tracos": "✅",
