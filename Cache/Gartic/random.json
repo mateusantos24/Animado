@@ -211,6 +211,13 @@
   },
   {
     "what": "ANIMAL",
+    "url": "https://i.pinimg.com/originals/2c/78/ca/2c78cafcf14e11cd89ee24f992b6e081.jpg",
+    "name": "urso",
+    "tracos": "❌",
+    "bonus": 100
+  },
+  {
+    "what": "ANIMAL",
     "url": "https://s3.amazonaws.com/media.wikiaves.com.br/images/3291/1923156_b7fe7934e17e638d9fc3b2fa7c870fef.jpg",
     "name": "urubu-preto",
     "tracos": "✅",
@@ -344,7 +351,7 @@
   },
   {
     "what": "NOME DO PAÍS",
-    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_belgica_1777009713260.jpg",
+    "url": "https://s4.static.brasilescola.uol.com.br/be/2022/11/bandeira-da-belgica.jpg",
     "name": "belgica",
     "tracos": "❌",
     "bonus": 400
@@ -507,6 +514,13 @@
     "what": "TIME",
     "url": "https://i.pinimg.com/originals/3e/01/b8/3e01b840ee545e7c4bf4df3776f059af.png",
     "name": "flamengo",
+    "tracos": "❌",
+    "bonus": 550
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://w7.pngwing.com/pngs/541/545/png-transparent-sash-window-wood-stain-house-object-furniture-rectangle-window.png",
+    "name": "janela",
     "tracos": "❌",
     "bonus": 550
   },
@@ -691,13 +705,6 @@
     "name": "diamante",
     "tracos": "❌",
     "bonus": 200
-  },
-  {
-    "what": "NOME DO PAÍS",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1200px-Flag_of_Guatemala.svg.png",
-    "name": "guatemala",
-    "tracos": "❌",
-    "bonus": 380
   },
   {
     "what": "O QUE É CONSIDERADO UMA JOIA?",
@@ -988,7 +995,7 @@
   },
   {
     "what": "OBJETO?",
-    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_chaves_1777009622162.png",
+    "url": "https://chaveirobougainville.com.br/wp-content/uploads/2020/11/chaves3.png",
     "name": "chaves",
     "tracos": "❌",
     "bonus": 200
@@ -1034,6 +1041,13 @@
     "name": "youtube",
     "tracos": "❌",
     "bonus": 250
+  },
+  {
+    "what": "NOME DO PAÍS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_the_Customs_of_the_People%27s_Republic_of_China.svg/220px-Flag_of_the_Customs_of_the_People%27s_Republic_of_China.svg.png",
+    "name": "china",
+    "tracos": "❌",
+    "bonus": 380
   },
   {
     "what": "NOME DO PAÍS",
@@ -1118,6 +1132,13 @@
     "name": "telescopio",
     "tracos": "❌",
     "bonus": 270
+  },
+  {
+    "what": "OBJETO",
+    "url": "https://a-static.mlcdn.com.br/450x450/urso-de-pelucia-gigante-teddy-grande-90-cm-luckbabystore/luckbabystore/15889888408/efe39c1bff8152cba8f823da1275310d.jpeg",
+    "name": "urso de pelucia",
+    "tracos": "❌",
+    "bonus": 500
   },
   {
     "what": "OBJETO",
@@ -1380,7 +1401,7 @@
   },
   {
     "what": "PLANETA UNIVERSO",
-    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_galaxia_1777009664890.jpg",
+    "url": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2019/07/galaxia-espiral.jpg",
     "name": "galaxia",
     "tracos": "❌",
     "bonus": 260
@@ -1484,9 +1505,11 @@
     "bonus": 250
   },
   {
-    "name": "flakes power",
     "what": "NOME?",
-    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_flakes_power_1776977477259.jpg"
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7Q9Y8yUSGTfVda0MJkbYwNDTWERmTHo_jA&s",
+    "name": "flakes power",
+    "tracos": "❌",
+    "bonus": 250
   },
   {
     "what": "NOME?",
@@ -1504,7 +1527,7 @@
   },
   {
     "what": "NOME?",
-    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_atchiin_1777009695326.jpg",
+    "url": "https://www.clashroyaledicas.com/wp-content/uploads/2017/11/atchiin-clash-royale-crown-championship.jpg",
     "name": "atchiin",
     "tracos": "❌",
     "bonus": 250
@@ -1693,7 +1716,7 @@
   },
   {
     "what": "OBJETO",
-    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_grampeador_1777009683548.jpg",
+    "url": "https://cdnv2.moovin.com.br/marbig/imagens/produtos/det/grampeador-25-folhas-metalico-de-mesa-g104-preto-img-58467_1010240455268404.jpg",
     "name": "grampeador",
     "tracos": "❌",
     "bonus": 350
@@ -1721,7 +1744,7 @@
   },
   {
     "what": "NOME DO VEICULOS?",
-    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_caminhao_militar_1777157246050.jpg",
+    "url": "https://img.olx.com.br/images/48/483153437946230.jpg",
     "name": "caminhão militar",
     "tracos": "❌",
     "bonus": 850
@@ -1877,6 +1900,13 @@
     "name": "melancia",
     "tracos": "❌",
     "bonus": 250
+  },
+  {
+    "what": "FRUTA",
+    "url": "https://sindafep.org.br/media/img_noticias/fig-fruit.jpg",
+    "name": "figo",
+    "tracos": "❌",
+    "bonus": 380
   },
   {
     "what": "NOME DOS PERSONAGEM?",
