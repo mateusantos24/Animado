@@ -30,6 +30,11 @@
     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIgB9IrUm1AmE0Bi3uxvjRyrkUvIy3OAUyYQ&s"
   },
   {
+    "what": "OBJETO TECNOLOGIA",
+    "name": "Smartphones",
+    "url": "https://blog.shoppingeldorado.com.br/wp-content/uploads/2023/05/Captura-de-tela-2023-05-26-135737.png"
+  },
+  {
     "what": "objeto tecnologia",
     "name": "laptops",
     "url": "https://blog.kalunga.com.br/wp-content/uploads/2022/10/notebook-aspire-3-acer.jpg"
@@ -72,7 +77,7 @@
   {
     "what": "objeto ferramentas",
     "name": "Furadeiras",
-    "url": "https://images.tcdn.com.br/img/img_prod/1134573/furadeira_de_impacto_3_8_220v_c_50_itens_123321299_1_6a2a6060e933102aa9094e6e854a91e2.jpg"
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/objeto_furadeiras_1777762560383.jpg"
   },
   {
     "what": "Instrumentos musicais",
@@ -80,14 +85,19 @@
     "url": "https://img.freepik.com/vetores-premium/rotulo-de-instrumento-eletrico-de-guitarra_24877-24459.jpg"
   },
   {
+    "what": "Instrumentos musicais",
+    "name": "Pianos",
+    "url": "https://br.yamaha.com/pt/files/parts_viewer01_7627108619e41d65115ffac4028684b4.jpg"
+  },
+  {
     "what": "Instrumentos Musicais",
     "name": "Violinos",
     "url": "https://m.media-amazon.com/images/I/61LjhSXkJPL._AC_UF894,1000_QL80_.jpg"
   },
   {
-    "name": "Baterias",
     "what": "Instrumentos Musicais",
-    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/objeto_Baterias_1776545396157.jpg"
+    "name": "Baterias",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Drum_set.svg/1200px-Drum_set.svg.png"
   },
   {
     "what": "Instrumentos Musicais",
