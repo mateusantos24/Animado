@@ -106,7 +106,7 @@
   },
   {
     "what": "FRUTA",
-    "url": "https://static.todamateria.com.br/upload/la/ra/laranja-cke.jpg?auto_optimize=low",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_laranja_1777813136325.jpg",
     "name": "laranja",
     "tracos": "❌",
     "bonus": 250
@@ -1121,7 +1121,7 @@
   },
   {
     "what": "OBJETO",
-    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_quebra-nozes_1777812959975.jpg",
+    "url": "https://d2qdb2914189p2.cloudfront.net/Custom/Content/Products/20/44/20449_quebra-nozes_m2_637236568661094712.jpg",
     "name": "quebra-nozes",
     "tracos": "✅",
     "bonus": 100
