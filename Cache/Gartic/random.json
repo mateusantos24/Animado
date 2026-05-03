@@ -50,7 +50,7 @@
   },
   {
     "what": "OBJETO",
-    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_despertador_1777762521846.jpg",
+    "url": "https://img.freepik.com/vetores-premium/conceito-de-objeto-de-despertador-vermelho-vetor-de-icone-de-desenho-animado_484148-122.jpg",
     "name": "despertador",
     "tracos": "❌",
     "bonus": 400
@@ -1636,13 +1636,6 @@
     "name": "vulcao",
     "tracos": "❌",
     "bonus": 550
-  },
-  {
-    "what": "APOCALIPSE?",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krunkwerke_-_IMG_4515_%28by-sa%29.jpg/1200px-Krunkwerke_-_IMG_4515_%28by-sa%29.jpg",
-    "name": "raio",
-    "tracos": "❌",
-    "bonus": 250
   },
   {
     "what": "APOCALIPSE?",
