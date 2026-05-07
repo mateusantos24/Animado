@@ -820,7 +820,7 @@
   },
   {
     "what": "NOME DA ANIMES?",
-    "url": "https://s2-techtudo.glbimg.com/IsgHcljYGfWVrVp2vTllbDnanqM=/0x0:3264x1438/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/K/S/TCnWshSjiakrYiarIbIA/one-piece-anime-live-action-techtudo-01.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_one_piece_1778162459985.jpg",
     "name": "one piece",
     "tracos": "❌",
     "bonus": 975
@@ -1636,6 +1636,13 @@
     "name": "vulcao",
     "tracos": "❌",
     "bonus": 550
+  },
+  {
+    "what": "APOCALIPSE?",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krunkwerke_-_IMG_4515_%28by-sa%29.jpg/1200px-Krunkwerke_-_IMG_4515_%28by-sa%29.jpg",
+    "name": "raio",
+    "tracos": "❌",
+    "bonus": 250
   },
   {
     "what": "APOCALIPSE?",
