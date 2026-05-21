@@ -1,7 +1,7 @@
 [
   {
     "what": "FRUTAS",
-    "url": "https://static.todamateria.com.br/upload/ac/er/acerola-cke.jpg?auto_optimize=low",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/acerola.jpg",
     "name": "acerola",
     "tracos": "❌",
     "bonus": 150
@@ -50,7 +50,7 @@
   },
   {
     "what": "OBJETO",
-    "url": "https://img.freepik.com/vetores-premium/conceito-de-objeto-de-despertador-vermelho-vetor-de-icone-de-desenho-animado_484148-122.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/despertador.jpg",
     "name": "despertador",
     "tracos": "❌",
     "bonus": 400
@@ -106,7 +106,7 @@
   },
   {
     "what": "FRUTA",
-    "url": "https://static.todamateria.com.br/upload/la/ra/laranja-cke.jpg?auto_optimize=low",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/laranja.jpg",
     "name": "laranja",
     "tracos": "❌",
     "bonus": 250
@@ -204,7 +204,7 @@
   },
   {
     "what": "NOME DOS PERSONAGEM?",
-    "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46351f65-f1ff-40a5-b1f4-5357f61e0d3a/d9zdbhd-cbb3b30a-3e1d-4dea-b760-85efbf441b11.jpg/v1/fill/w_600,h_769,q_75,strp/snape_and_the_book_by_jinaelee_d9zdbhd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY5IiwicGF0aCI6IlwvZlwvNDYzNTFmNjUtZjFmZi00MGE1LWIxZjQtNTM1N2Y2MWUwZDNhXC9kOXpkYmhkLWNiYjNiMzBhLTNlMWQtNGRlYS1iNzYwLTg1ZWZiZjQ0MWIxMS5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.O4PEfnCNiUZkW0VBo9PRPf1_6BvDftUNYUi2sdrn_30",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/severus_snape.jpg",
     "name": "severus snape",
     "tracos": "❌",
     "bonus": 650
@@ -218,14 +218,14 @@
   },
   {
     "what": "ANIMAL",
-    "url": "https://s3.amazonaws.com/media.wikiaves.com.br/images/3291/1923156_b7fe7934e17e638d9fc3b2fa7c870fef.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/urubu_preto.jpg",
     "name": "urubu-preto",
     "tracos": "✅",
     "bonus": 380
   },
   {
     "what": "NOME DO JOGOS",
-    "url": "https://img.quizur.com/f/img60f297952ac4b5.87456252.jpg?lastEdited=1626511256",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/minecraft.jpg",
     "name": "minecraft",
     "tracos": "❌",
     "bonus": 650
@@ -267,14 +267,14 @@
   },
   {
     "what": "OBJETO",
-    "url": "https://museulinguaportuguesa.org.br/wp-content/uploads/2018/03/Xadrez.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/xadrez.jpg",
     "name": "xadrez",
     "tracos": "❌",
     "bonus": 250
   },
   {
     "what": "NOME DOS PERSONAGEM?",
-    "url": "https://i.ebayimg.com/images/g/pFQAAOSwepJXVcUD/s-l500.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/lord_voldemort.jpg",
     "name": "lord voldemort",
     "tracos": "❌",
     "bonus": 105
@@ -358,7 +358,7 @@
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://ogimg.infoglobo.com.br/in/22366158-f5d-4b5/FT1086A/74569980_This-image-released-by-Disney-and-Marvel-Studios27-shows-Chadwick-Boseman-in-a-scene-from-Bl.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/pantera_negra.jpg",
     "name": "pantera negra",
     "tracos": "❌",
     "bonus": 250
@@ -372,7 +372,7 @@
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://files.tecnoblog.net/wp-content/uploads/2021/04/Qual-a-ordem-cronologica-dos-filmes-do-Batman-Deny-Freeman-Flickr.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/batman.jpg",
     "name": "batman",
     "tracos": "❌",
     "bonus": 380
@@ -400,14 +400,14 @@
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://t.ctcdn.com.br/Vtnl9CmqZl9CXkJi6LgYhLBMz8w=/512x288/smart/filters:format(webp)/i356201.jpeg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/gigantes_de_aco.jpg",
     "name": "gigantes de aco",
     "tracos": "❌",
     "bonus": 650
   },
   {
     "what": "NOME DOS PERSONAGEM?",
-    "url": "https://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/87/32/75/19917610.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/zeus.jpg",
     "name": "zeus",
     "tracos": "❌",
     "bonus": 200
@@ -477,7 +477,7 @@
   },
   {
     "what": "TIME",
-    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTbDtFj1rVoTixRjnoye-iR_YumKnVME1uy2fRpNO9qOpzLYQoUinRYuO_HtAUM0tZv0&usqp=CAU",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/fluminense.jpg",
     "name": "fluminense",
     "tracos": "❌",
     "bonus": 200
@@ -512,14 +512,14 @@
   },
   {
     "what": "OBJETO",
-    "url": "https://construindodecor.com.br/wp-content/uploads/2015/04/cadeira-de-madeira-simples.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/cadeira.jpg",
     "name": "cadeira",
     "tracos": "❌",
     "bonus": 250
   },
   {
     "what": "NATUREZA",
-    "url": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/11/06/1737294746-sonhar-com-arvore.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/arvore.jpg",
     "name": "arvore",
     "tracos": "❌",
     "bonus": 200
@@ -547,14 +547,14 @@
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://i.ibb.co/Kh9Hgpz/images-3.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/velozes_e_furiosos_9.jpg",
     "name": "velozes e furiosos 9",
     "tracos": "❌",
     "bonus": 400
   },
   {
     "what": "VEICULOS DO GTA V",
-    "url": "https://static.wikia.nocookie.net/gta/images/a/a9/InsurgentPickUpCustom-GTAO-FrontQuarter.png/revision/latest/scale-to-width-down/1200?cb=20200518022453&path-prefix=pt",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/picape_insurgent.webp",
     "name": "picape insurgent",
     "tracos": "❌",
     "bonus": 300
@@ -575,7 +575,7 @@
   },
   {
     "what": "NOME DOS PERSONAGEM?",
-    "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ccc269e-273c-4dfb-97c4-667cfae749f0/devnt5h-4716d6c2-c9e8-44b9-9298-361c51c3e8d4.png/v1/fill/w_1192,h_670,q_70,strp/rochell_le_artwork___gta_san_andreas__by_vicenzovegas21_devnt5h-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOWNjYzI2OWUtMjczYy00ZGZiLTk3YzQtNjY3Y2ZhZTc0OWYwXC9kZXZudDVoLTQ3MTZkNmMyLWM5ZTgtNDRiOS05Mjk4LTM2MWM1MWMzZThkNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ViPsHa_0uVYx9wSohmw1SQp6Jg55dbVR1fuMFTBOVZQ",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/rochell_le.jpg",
     "name": "rochell'le",
     "tracos": "❌",
     "bonus": 400
@@ -589,7 +589,7 @@
   },
   {
     "what": "NOME DOS PERSONAGEM?",
-    "url": "https://i.pinimg.com/474x/b1/5f/44/b15f44dae8df23c1f9383bf414cfa8dc.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/rei_ayanami.jpg",
     "name": "rei ayanami",
     "tracos": "❌",
     "bonus": 5000
@@ -673,7 +673,7 @@
   },
   {
     "what": "NOME DO JOGOS?",
-    "url": "https://meups.com.br/wp-content/uploads/2022/05/GTA-V-7.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/grand_theft_auto_v.jpg",
     "name": "grand theft auto v",
     "tracos": "❌",
     "bonus": 650
@@ -708,7 +708,7 @@
   },
   {
     "what": "PLANETA UNIVERSO",
-    "url": "https://revistapesquisa.fapesp.br/wp-content/uploads/2019/11/285_miniatura9.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/saturno.jpg",
     "name": "saturno",
     "tracos": "❌",
     "bonus": 200
@@ -736,14 +736,14 @@
   },
   {
     "what": "NOME DO APLICATIVO?",
-    "url": "https://www.trecebits.com/wp-content/uploads/2022/10/x-app-twitter-800x445.webp",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/twitter.webp",
     "name": "twitter",
     "tracos": "❌",
     "bonus": 350
   },
   {
     "what": "NOME DO APLICATIVO?",
-    "url": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/netflix.png",
     "name": "netflix",
     "tracos": "❌",
     "bonus": 170
@@ -757,28 +757,28 @@
   },
   {
     "what": "NOME DO APLICATIVO?",
-    "url": "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/snapchat.png",
     "name": "snapchat",
     "tracos": "❌",
     "bonus": 380
   },
   {
     "what": "QUEM É O VERDADEIRO DONO DO FACEBOOK?",
-    "url": "https://capitalist.com.br/wp-content/uploads/2021/09/mark-zuckerberg-scaled.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/mark_zuckerberg.jpg",
     "name": "mark zuckerberg",
     "tracos": "❌",
     "bonus": 250
   },
   {
     "what": "OBJETO?",
-    "url": "https://m.media-amazon.com/images/I/61Md6YVWZOL._AC_SY679_.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/desentupidor.jpg",
     "name": "desentupidor",
     "tracos": "❌",
     "bonus": 380
   },
   {
     "what": "QUEM É O DONO DO MINECRAFT?",
-    "url": "https://www.outerspace.com.br/wp-content/uploads/2019/03/notch.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/markus_persson.jpg",
     "name": "markus persson",
     "tracos": "❌",
     "bonus": 250
@@ -792,7 +792,7 @@
   },
   {
     "what": "A LENDA DO MINECRAFT?",
-    "url": "https://yt3.googleusercontent.com/ytc/AL5GRJUaEaaf0bxjRO2GEJRmj47qlwxyjEeO-wfMJa208A=s900-c-k-c0x00ffffff-no-rj",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/technoblade.jpg",
     "name": "technoblade",
     "tracos": "❌",
     "bonus": 170
@@ -834,7 +834,7 @@
   },
   {
     "what": "DESENHO",
-    "url": "https://soloinfantil.com/wp-content/uploads/2020/03/16-desenho-f%C3%A1cil-de-coelho.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/coelho.jpg",
     "name": "coelho",
     "tracos": "❌",
     "bonus": 250
@@ -855,7 +855,7 @@
   },
   {
     "what": "DESENHO",
-    "url": "https://i.pinimg.com/736x/c9/63/bb/c963bbcecaf3cdb576ed3ba91eaeaf24.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/rato.jpg",
     "name": "rato",
     "tracos": "❌",
     "bonus": 200
@@ -904,14 +904,14 @@
   },
   {
     "what": "DESERTO DO MINECRAFT?",
-    "url": "https://i.pinimg.com/736x/54/83/e5/5483e5ee54df44d7ee93f81c6a91fec4.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/templo_do_deserto.jpg",
     "name": "templo do deserto",
     "tracos": "❌",
     "bonus": 430
   },
   {
     "what": "MINECRAFT DA SELVA?",
-    "url": "https://uploads.spiritfanfiction.com/historias/capitulos/202102/minecraft-esquadrao-monstro-21766416-250220210803.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/templo_da_selva.jpg",
     "name": "templo da selva",
     "tracos": "❌",
     "bonus": 650
@@ -932,14 +932,14 @@
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://static1.purebreak.com.br/articles/6/91/99/6/@/353530-voce-nao-vai-acreditar-nestas-20-curiosi-diapo-2.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/alice_no_pais_das_maravilhas.jpg",
     "name": "alice no pais das maravilhas",
     "tracos": "❌",
     "bonus": 380
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://media.semprefamilia.com.br/semprefamilia/2015/08/guardians-of-the-galaxy-e1439345265509-d51aa4a4.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/guardioes_da_galaxia.jpg",
     "name": "guardioes da galaxia",
     "tracos": "❌",
     "bonus": 350
@@ -967,7 +967,7 @@
   },
   {
     "what": "OBJETO?",
-    "url": "https://chaveirobougainville.com.br/wp-content/uploads/2020/11/chaves3.png",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/chaves.png",
     "name": "chaves",
     "tracos": "❌",
     "bonus": 200
@@ -981,7 +981,7 @@
   },
   {
     "what": "OBJETO?",
-    "url": "https://conceitos.com/wp-content/uploads/Dado.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/dado.jpg",
     "name": "dado",
     "tracos": "❌",
     "bonus": 380
@@ -1023,7 +1023,7 @@
   },
   {
     "what": "NOME DO PAÍS",
-    "url": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/05/bandeira-da-croacia.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/croacia.jpg",
     "name": "croacia",
     "tracos": "❌",
     "bonus": 380
@@ -1037,7 +1037,7 @@
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://sm.ign.com/t/ign_br/screenshot/default/o_248t.1280.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/piratas_do_caribe_a_vinganca_de_salazar.jpg",
     "name": "piratas do caribe a vinganca de salazar",
     "tracos": "❌",
     "bonus": 250
@@ -1065,7 +1065,7 @@
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://p2.trrsf.com/image/fget/cf/1200/300/middle/images.terra.com/2023/02/25/1070078955-puss-in-boots-the-last-wish.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/gato_de_botas_2.jpg",
     "name": "gato de botas 2",
     "tracos": "❌",
     "bonus": 500
@@ -1100,14 +1100,14 @@
   },
   {
     "what": "OBJETO",
-    "url": "https://static.preparaenem.com/conteudo_legenda/cc190a5325d4d7b306ed1087b3444032.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/telescopio.jpg",
     "name": "telescopio",
     "tracos": "❌",
     "bonus": 270
   },
   {
     "what": "OBJETO",
-    "url": "https://a-static.mlcdn.com.br/450x450/urso-de-pelucia-gigante-teddy-grande-90-cm-luckbabystore/luckbabystore/15889888408/efe39c1bff8152cba8f823da1275310d.jpeg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/urso_de_pelucia.jpg",
     "name": "urso de pelucia",
     "tracos": "❌",
     "bonus": 500
@@ -1135,14 +1135,14 @@
   },
   {
     "what": "FRUTAS",
-    "url": "https://images.tcdn.com.br/img/img_prod/753894/muda_de_caqui_chocolate_altura_de_0_80_cm_a_1_20_m_909_1_d60cb2741d7a83a0c19a6b0423659d6a.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/caqui_chocolate.jpg",
     "name": "caqui chocolate",
     "tracos": "❌",
     "bonus": 130
   },
   {
     "what": "FRUTAS",
-    "url": "https://www.todafruta.com.br/wp-content/uploads/2016/07/castanha-portuguesa-300x185.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/castanha_portuguesa.jpg",
     "name": "castanha portuguesa",
     "tracos": "❌",
     "bonus": 250
@@ -1170,14 +1170,14 @@
   },
   {
     "what": "FRUTAS",
-    "url": "https://www.sitiodamata.com.br/pub/media/catalog/product/cache/02a967fa0e464fd60865ccf512e40f92/j/a/jabuticaba-branca-myrciaria-aureana_3nd.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/jabuticaba_branca.jpg",
     "name": "jabuticaba branca",
     "tracos": "❌",
     "bonus": 250
   },
   {
     "what": "FRUTAS",
-    "url": "https://vitat.com.br/wp-content/uploads/2021/07/mana-cubiu-e1625756059654.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/mana_cubiu.jpg",
     "name": "mana-cubiu",
     "tracos": "✅",
     "bonus": 170
@@ -1191,7 +1191,7 @@
   },
   {
     "what": "NOVELAS?",
-    "url": "https://s2.glbimg.com/GBvXU09UjA2FZlQVHit9gRtdGLc=/0x0:2560x300/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/Q/6/vtuFWXRSyAj1flRwOJ7Q/elenco-a-forca-do-querer.png",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/a_forca_do_querer.png",
     "name": "a forca do querer",
     "tracos": "❌",
     "bonus": 380
@@ -1205,7 +1205,7 @@
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://capricho.abril.com.br/wp-content/uploads/2023/01/M3GAN.jpg?quality=85&strip=info&w=200&h=666&crop=1",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/m3gan.jpg",
     "name": "m3gan",
     "tracos": "❌",
     "bonus": 400
@@ -1226,7 +1226,7 @@
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://img.olhardigital.com.br/wp-content/uploads/2022/11/sorria-filme.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/sorria.jpg",
     "name": "sorria",
     "tracos": "❌",
     "bonus": 380
@@ -1240,7 +1240,7 @@
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://cinepop.com.br/wp-content/uploads/2021/06/viuvanegracritica.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/viuva_negra.jpg",
     "name": "viuva negra",
     "tracos": "❌",
     "bonus": 700
@@ -1268,7 +1268,7 @@
   },
   {
     "what": "NOME DO FILME (TERROR)",
-    "url": "https://www.casinhaarrumada.com/wp-content/uploads/2017/10/Filme-It-A-Coisa-1.png",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/it_a_coisa.png",
     "name": "it - a coisa",
     "tracos": "✅",
     "bonus": 170
@@ -1282,7 +1282,7 @@
   },
   {
     "what": "NOME DO FILME (TERROR)",
-    "url": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2022/07/2447936.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/um_lugar_silencioso.jpg",
     "name": "um lugar silencioso",
     "tracos": "❌",
     "bonus": 700
@@ -1296,14 +1296,14 @@
   },
   {
     "what": "NOME DO PAÍS",
-    "url": "https://globaltranslations.com.br/wp-content/uploads/2017/07/5.-Abertura-Venezuela-1-890x400.png",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/venezuela.png",
     "name": "venezuela",
     "tracos": "❌",
     "bonus": 200
   },
   {
     "what": "MATÉRIA",
-    "url": "https://static.todamateria.com.br/img/categories/historia.png",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/historia.png",
     "name": "historia",
     "tracos": "❌",
     "bonus": 250
@@ -1331,7 +1331,7 @@
   },
   {
     "what": "NOME DO PAÍS",
-    "url": "https://s2.static.brasilescola.uol.com.br/be/2021/08/bandeira-do-cazaquistao.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/cazaquistao.jpg",
     "name": "cazaquistao",
     "tracos": "❌",
     "bonus": 380
@@ -1345,7 +1345,7 @@
   },
   {
     "what": "ANIMAL",
-    "url": "https://s5.static.brasilescola.uol.com.br/be/2021/04/rinoceronte-branco.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/rinoceronte.jpg",
     "name": "rinoceronte",
     "tracos": "❌",
     "bonus": 250
@@ -1380,7 +1380,7 @@
   },
   {
     "what": "PLANETA UNIVERSO",
-    "url": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/04/planeta-urano.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/urano.jpg",
     "name": "urano",
     "tracos": "❌",
     "bonus": 650
@@ -1394,7 +1394,7 @@
   },
   {
     "what": "PLANETA UNIVERSO",
-    "url": "https://s2.glbimg.com/emuPhkYMXQo4lso7NI2nh2Lth9E=/e.glbimg.com/og/ed/f/original/2018/09/07/pluto-1315109_960_720.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/plutao.jpg",
     "name": "plutao",
     "tracos": "❌",
     "bonus": 380
@@ -1478,7 +1478,7 @@
   },
   {
     "what": "NOME?",
-    "url": "https://yt3.googleusercontent.com/ytc/AL5GRJXC7OWQOG6qc3kkvhc517nMld2AYysPRUHIEIIoOA=s900-c-k-c0x00ffffff-no-rj",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/nery.jpg",
     "name": "nery",
     "tracos": "❌",
     "bonus": 250
@@ -1492,21 +1492,21 @@
   },
   {
     "what": "NOME?",
-    "url": "https://www.clashroyaledicas.com/wp-content/uploads/2017/11/atchiin-clash-royale-crown-championship.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/atchiin.jpg",
     "name": "atchiin",
     "tracos": "❌",
     "bonus": 250
   },
   {
     "what": "NOME?",
-    "url": "https://s2.glbimg.com/48vamLb4nw81DIrNzE0jAgbXh00=/0x0:873x1164/873x1164/smart/filters:strip_icc()/s2.glbimg.com/MGvZ4enulHY8gOrrdM3lTG76Rvk%3D/600x0/filters%3Aquality%2870%29/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Y/r/cW9z6cRrCAAzvclNx8Dw/bruno-playhard-loud-reproducao-instagram.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/bruno.jpg",
     "name": "bruno",
     "tracos": "❌",
     "bonus": 250
   },
   {
     "what": "NOME?",
-    "url": "https://www.clashroyaledicas.com/wp-content/uploads/2017/11/atchiin-clash-royale-crown-championship.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/atchiin.jpg",
     "name": "atchiin",
     "tracos": "❌",
     "bonus": 250
@@ -1555,7 +1555,7 @@
   },
   {
     "what": "NOME?",
-    "url": "https://conteudo.imguol.com.br/c/esporte/53/2022/06/25/gabigol-comemora-gol-anotado-pelo-flamengo-contra-o-america-mg-1656197585306_v2_3x4.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/gabigol.jpg",
     "name": "gabigol",
     "tracos": "❌",
     "bonus": 170
@@ -1583,14 +1583,14 @@
   },
   {
     "what": "APOCALIPSE?",
-    "url": "https://orlario.com.vc/wp-content/uploads/2020/07/tsunami.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/tsunami.jpg",
     "name": "tsunami",
     "tracos": "❌",
     "bonus": 350
   },
   {
     "what": "APOCALIPSE?",
-    "url": "https://super.abril.com.br/wp-content/uploads/2018/03/nem-doeu-ser-humano-prc3a9-histc3b3rico-se-deu-bem-apc3b3s-erupc3a7c3a3o-massiva-hc3a1-75-mil-anos.png?w=1024&resize=1200,800",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/vulcao.png",
     "name": "vulcao",
     "tracos": "❌",
     "bonus": 550
@@ -1611,7 +1611,7 @@
   },
   {
     "what": "NOME DO APLICATIVO??",
-    "url": "https://s2-techtudo.glbimg.com/hoNutqtb86LhWUpcvxKCsGMZAnc=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/V/1/mGGywJQQykpMevJh2qOw/logo-dysneu-plus.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/disney.jpg",
     "name": "disney",
     "tracos": "❌",
     "bonus": 230
@@ -1639,7 +1639,7 @@
   },
   {
     "what": "OBJETO",
-    "url": "https://img.freepik.com/vetores-premium/botao-de-costura-verde-realista-com-furos-fecho-acessorio-de-roupa-elemento-plastico-decorativo_341509-4153.jpg?w=250",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/botao_de_costura.jpg",
     "name": "botao de costura",
     "tracos": "❌",
     "bonus": 550
@@ -1660,35 +1660,35 @@
   },
   {
     "what": "OBJETO",
-    "url": "https://m.media-amazon.com/images/I/518-zv7dl3L._AC_UF894,1000_QL80_.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/regua.jpg",
     "name": "regua",
     "tracos": "❌",
     "bonus": 100
   },
   {
     "what": "OBJETO",
-    "url": "https://cdnv2.moovin.com.br/marbig/imagens/produtos/det/grampeador-25-folhas-metalico-de-mesa-g104-preto-img-58467_1010240455268404.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/grampeador.jpg",
     "name": "grampeador",
     "tracos": "❌",
     "bonus": 350
   },
   {
     "what": "OBJETO",
-    "url": "https://thumbs.dreamstime.com/b/objeto-branco-da-calculadora-para-calcular-no-fundo-branco-73759801.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/calculador.jpg",
     "name": "calculador",
     "tracos": "❌",
     "bonus": 380
   },
   {
     "what": "OBJETO",
-    "url": "https://img.freepik.com/psd-premium/3d-ilustracao-simples-icone-beleza-objeto-batom_372682-2631.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/batom.jpg",
     "name": "batom",
     "tracos": "❌",
     "bonus": 200
   },
   {
     "what": "NOME DO VEICULOS?",
-    "url": "https://f.i.uol.com.br/fotografia/2022/05/12/1652359175627d000787aea_1652359175_3x2_rt.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/tanque.jpg",
     "name": "tanque",
     "tracos": "❌",
     "bonus": 250
@@ -1710,7 +1710,7 @@
   {
     "name": "savitar",
     "what": "NOME DOS PERSONAGEM (THE FLASH)",
-    "url": "https://m.media-amazon.com/images/M/MV5BOWZiNWEyODEtYzRjYS00OTQxLTk4NmItNDk1YWYxYTIyZTg5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/savitar.jpg"
   },
   {
     "what": "NOME DOS PERSONAGEM (THE FLASH)",
@@ -1763,49 +1763,49 @@
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://capricho.abril.com.br/wp-content/uploads/2019/10/coringa-joker-1.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/coringa.jpg",
     "name": "coringa",
     "tracos": "❌",
     "bonus": 250
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://s2.glbimg.com/r8RENjlYC0FHqciYu_pWaVUmk9w=/e.glbimg.com/og/ed/f/original/2022/06/29/a-orfa-1.jpeg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/a_orfa.jpg",
     "name": "a orfa",
     "tracos": "❌",
     "bonus": 250
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://static.wikia.nocookie.net/disneyprincesas/images/f/fb/Enrolados.png/revision/latest/smart/width/250/height/250?cb=20121013150455&path-prefix=pt-br",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/enrolados.webp",
     "name": "enrolados",
     "tracos": "❌",
     "bonus": 200
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://images.universohq.com/2015/07/HomemFormiga_des.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/homem_formiga.jpg",
     "name": "homem-formiga",
     "tracos": "✅",
     "bonus": 250
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://s2.glbimg.com/8ITevm2KPa0U2Fa38-83dmMH-iQ=/e.glbimg.com/og/ed/f/original/2018/12/18/bgfbgf.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/as_cronicas_de_narnia.jpg",
     "name": "as cronicas de narnia",
     "tracos": "❌",
     "bonus": 650
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://t2.tudocdn.net/304067?w=1920",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/scooby_doo.jpg",
     "name": "scooby-doo",
     "tracos": "✅",
     "bonus": 900
   },
   {
     "what": "NOME DO FILME",
-    "url": "https://roraimaemtempo.com.br/wp-content/uploads/2022/08/predator-hunting-grounds-announced-gameplay-details-revealed_2g83-860x484.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/o_predador.jpg",
     "name": "o predador",
     "tracos": "❌",
     "bonus": 850
@@ -1819,14 +1819,14 @@
   },
   {
     "what": "NOME DO JOGOS",
-    "url": "https://cdn.ome.lt/WGgEhHRE4VMczZJK2P1NSUqcwaA=/1200x630/smart/extras/conteudos/god-of-war-home-1200.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/god_of_war.jpg",
     "name": "god of war",
     "tracos": "❌",
     "bonus": 170
   },
   {
     "what": "BIOLOGIA",
-    "url": "https://static.significados.com.br/foto/sign.-dna-imagem-social.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/dna.jpg",
     "name": "dna",
     "tracos": "❌",
     "bonus": 250
@@ -1868,7 +1868,7 @@
   },
   {
     "what": "NOME DA ANIMES?",
-    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4K-eVPOJSxYc9Yukgb8psFwZwwnwUMlYTmnfzebLnPh4idUZLu-OWA858M3HhI54Yw0&usqp=CAU",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/loli.jpg",
     "name": "loli",
     "tracos": "❌",
     "bonus": 170
@@ -1882,7 +1882,7 @@
   },
   {
     "what": "NOME DOS MONSTROS (MINECRAFT)",
-    "url": "https://i.ytimg.com/vi/0UcRAE94yXU/maxresdefault.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/wither_storm.jpg",
     "name": "wither storm",
     "tracos": "❌",
     "bonus": 400
@@ -1896,7 +1896,7 @@
   },
   {
     "what": "NOME DOS MONSTROS (MINECRAFT)",
-    "url": "https://i.ytimg.com/vi/Jo-7RXJ321w/maxresdefault.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/bruxa.jpg",
     "name": "bruxa",
     "tracos": "❌",
     "bonus": 370
@@ -1910,21 +1910,21 @@
   },
   {
     "what": "NOME DO FILME (TERROR)",
-    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKA1OYpArCeYYRH6djxTu7NVvjr0Wd9ShpxfWIh01AqYGj2JcIux429xq3QDwT_1mIvgUKqtgC0gj2n679Ep_IQmaHCyOed-BkFNOfJ8vxxvn0bYT7oJzoBZSKkInQWvkifWrwUms4hv8OUKZgStFiafoz-T8uATMRoqvCxY49hv4-AcQ4O8sqN1WhUQ/w1200-h630-p-k-no-nu/sbrntrlprtverm01.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/sobrenatural_a_porta_vermelha.jpg",
     "name": "sobrenatural a porta vermelha",
     "tracos": "❌",
     "bonus": 940
   },
   {
     "what": "NOME DA APPS",
-    "url": "https://play-lh.googleusercontent.com/U_NE4YtUoSzUU-wa7spbP0vB9VqrVxSrcjodyvGo-EsMDo4Pr-hLmutRuVXNz4V_eg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/tim.jpg",
     "name": "tim",
     "tracos": "❌",
     "bonus": 380
   },
   {
     "what": "NOME DO JOGOS",
-    "url": "https://meups.com.br/wp-content/uploads/2021/04/The-Last-of-Us-4-900x503.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/the_last_of_us.jpg",
     "name": "the last of us",
     "tracos": "❌",
     "bonus": 800
@@ -1945,7 +1945,7 @@
   },
   {
     "what": "NOME DOS PERSONAGEM (MARVEL)",
-    "url": "https://img.freepik.com/fotos-premium/os-incriveis-papeis-de-parede-do-hulk-papeis-de-parede-hd_853177-21137.jpg",
+    "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/hulk.jpg",
     "name": "hulk",
     "tracos": "❌",
     "bonus": 1000
