@@ -1,0 +1,4953 @@
+{
+  "format": "megumin-gartic-v1",
+  "themes": {
+    "animais": [
+      {
+        "name": "Cachorro",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cachorro.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Cachorro caramelo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cachorro_caramelo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Caititu",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/caititu.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Gato",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/gato.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Elefante",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/elefante.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Leão",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/leao.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Leoa",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/leoa.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tigre",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tigre.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Urso",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/urso.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Girafa",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/girafa.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Zebra",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/zebra.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Pinguim",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/pinguim.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Leopardo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/leopardo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Hipopótamo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/hipopotamo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Cavalo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cavalo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Cavalo marinho",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cavalo_marinho.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Macaco",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/macaco.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Gorila",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/gorila.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Gorila das montanhas",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/gorila_das_montanhas.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Pato",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/pato.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Baleia",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/baleia.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Baleia jubarte",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/baleia_jubarte.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Baleia-franca-do-atlântico-norte",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/baleia_franca_do_atlantico_norte.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tubarão",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tubarao.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tubarão-branco",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tubarao_branco.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tubarão-martelo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tubarao_martelo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tubarão-baleia",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tubarao_baleia.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Coruja",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/coruja.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Coruja branca",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/coruja_branca.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Camelo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/camelo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Dromedário",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/dromedario.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Crocodilo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/crocodilo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Crocodilo-do-nilo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/crocodilo_do_nilo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Jacaré",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/jacare.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Jacaré-do-pantanal",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/jacare_do_pantanal.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "jacaré-do-papo-amarelo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/jacare_do_papo_amarelo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Lobo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/lobo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Lobo-cinzento",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/lobo_cinzento.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Cobra Jararaca",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cobra_jararaca.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Cobra Coral",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cobra_coral.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "cobra do milho",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cobra_do_milho.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tigre Siberiano",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tigre_siberiano.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tigre Branco",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tigre_branco.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Porquinho da Índia",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/porquinho_da_india.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Porco espinho",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/porco_espinho.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Porco",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/porco.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "porco-formigueiro",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/porco_formigueiro.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Orangotango",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/orangotango.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Panda",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/panda.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Panda Vermelho",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/panda_vermelho.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Aranha",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/aranha.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Aranha Saltadora",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/aranha_saltadora.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Aranha Caranguejeira",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/aranha_caranguejeira.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Macaco-aranha",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/macaco_aranha.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Rinoceronte",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/rinoceronte.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Hiena",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/hiena.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Lhama",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/lhama.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "besouro rinoceronte",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/besouro_rinoceronte.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Polvo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/polvo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Golfinho",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/golfinho.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Abutre",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/abutre.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Canguru",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/canguru.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Coala",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/coala.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Avestruz",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/avestruz.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Chimpanzé",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/chimpanze.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Foca",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/foca.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Orca",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/orca.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Esquilo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/esquilo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Esquilo-voador",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/esquilo_voador.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "esquilo-vermelho",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/esquilo_vermelho.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Lontra",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/lontra.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Lontra-europeia",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/lontra_europeia.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Papagaio",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/papagaio.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Papagaio do mar",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/papagaio_do_mar.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Arara",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/arara.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Arara azul",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/arara_azul.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Urubu",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/urubu.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Cisne",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cisne.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Cisne Negro",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cisne_negro.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Cisne-trombeteiro",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cisne_trombeteiro.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Águia",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/aguia.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Águia dourada",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/aguia_dourada.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Águia-pescadora",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/aguia_pescadora.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Peixe",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/peixe.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Peixe-palhaço",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/peixe_palhaco.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Peixe-boi",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/peixe_boi.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Peixe-lua",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/peixe_lua.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Baiacu",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/baiacu.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Lagarto",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/lagarto.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Lagartixa",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/lagartixa.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Hamster",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/hamster.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Rato",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/rato.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Rato do mato",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/rato_do_mato.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Gafanhoto",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/gafanhoto.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Caracol",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/caracol.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Caracol-cone",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/caracol_cone.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tarântula",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tarantula.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Piranha",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/piranha.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Morcego",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/morcego.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Toupeira",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/toupeira.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Pomba",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/pomba.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Pombo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/pombo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Raposa",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/raposa.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Raposa branca",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/raposa_branca.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Doninha",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/doninha.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Doninha branca",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/doninha_branca.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Texugo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/texugo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tamanduá",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tamandua.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Corvo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/corvo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Alce",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/alce.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Puma",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/puma.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Pantera negra",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/pantera_negra.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Foca Leoparda",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/foca_leoparda.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Foca-anelada",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/foca_anelada.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Dragão de komodo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/dragao_de_komodo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Pangolim",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/pangolim.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Ornitorrinco",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/ornitorrinco.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "kasuari closeup",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/kasuari_closeup.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Suricata",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/suricata.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Pelicano",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/pelicano.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Capivara",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/capivara.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Caranguejo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/caranguejo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Lince",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/lince.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Lince-canadense",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/lince_canadense.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Guepardo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/guepardo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Axolote",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/axolote.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Pica-pau",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/pica_pau.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Ouriço",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/ourico.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Boto",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/boto.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Coelho",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/coelho.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Gavião real",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/gaviao_real.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Carpa",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/carpa.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Beija-flor",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/beija_flor.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Besouro",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/besouro.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Lagosta",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/lagosta.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Gambá",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/gamba.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Salamandra",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/salamandra.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Mico leão dourado",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/mico_leao_dourado.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Burro",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/burro.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Jumenta",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/jumenta.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Preguiça",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/preguica.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Javali",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/javali.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Bode",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/bode.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Galinha",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/galinha.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Bisão",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/bisao.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Carneiro",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/carneiro.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Búfalo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/bufalo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Vaca",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/vaca.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Touro",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/touro.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Cervo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cervo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Pavão",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/pavao.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Escorpião",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/escorpiao.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Pandinus imperator",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/pandinus_imperator.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Gato-do-mato",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/gato_do_mato.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Floppa",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/floppa.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Alpaca",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/alpaca.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Guaxinim",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/guaxinim.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Golfinho nariz de garrafa",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/golfinho_nariz_de_garrafa.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Urso polar",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/urso_polar.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tucano de bico arco íris",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tucano_de_bico_arco_iris.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Quokka",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/quokka.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Anta",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/anta.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Iguana",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/iguana.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Faisão-dourado",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/faisao_dourado.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tartaruga",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tartaruga.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Jabuti",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/jabuti.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tartaruga legítima",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tartaruga_legitima.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tartaruga-das-galápagos",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tartaruga_das_galapagos.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tatu-bola",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tatu_bola.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tatu",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tatu.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Quati",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/quati.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Jaguatirica",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/jaguatirica.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Ostra",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/ostra.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Lêmure",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/lemure.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Ariranha",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/ariranha.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Garoupa",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/garoupa.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Víbora de Chifres",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/vibora_de_chifres.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Formiga",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/formiga.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Diabo da tasmânia",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/diabo_da_tasmania.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Mosca",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/mosca.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Cutia",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cutia.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Sapo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/sapo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Sapo cururu",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/sapo_cururu.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Sapo verde",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/sapo_verde.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Rã touro",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/ra_touro.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Morsa",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/morsa.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Mosquito",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/mosquito.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Cardeal",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cardeal.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Leão-marinho",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/leao_marinho.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Barata",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/barata.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Flamingo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/flamingo.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Abelha",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/abelha.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Borboleta",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/borboleta.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Cão-da-pradaria",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/cao_da_pradaria.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Saíra-lagarta",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/saira_lagarta.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Saíra-sapucaia",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/saira_sapucaia.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Saíra-amarela",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/saira_amarela.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tangara",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tangara.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Chita",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/chita.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Musaranho-elefante",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/musaranho_elefante.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Saiga",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/saiga.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Antílope-negro",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/antilope_negro.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Dálmata",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/dalmata.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Garça",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/garca.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Pardal",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/pardal.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Tucano",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/tucano.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Libélula",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/libelula.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Husky Siberiano",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/husky_siberiano.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Ganso",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/ganso.jpg",
+        "what": "Animais"
+      },
+      {
+        "name": "Lebre",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animais/lebre.jpg",
+        "what": "Animais"
+      }
+    ],
+    "animes": [
+      {
+        "name": "Attack on Titan",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/attack_on_titan.png"
+      },
+      {
+        "name": "Akame ga Kill",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/akame_ga_kill.jpg"
+      },
+      {
+        "name": "Bleach",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/bleach.jpg"
+      },
+      {
+        "name": "Blue Lock",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/blue_lock.jpg"
+      },
+      {
+        "name": "Black Clover",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/black_clover.jpg"
+      },
+      {
+        "name": "Boku no Hero",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/boku_no_hero.jpg"
+      },
+      {
+        "name": "Bocchi the Rock",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/bocchi_the_rock.png"
+      },
+      {
+        "name": "Berserk",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/berserk.jpg"
+      },
+      {
+        "name": "Chainsaw Man",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/chainsaw_man.png"
+      },
+      {
+        "name": "Cyberpunk",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/cyberpunk.jpg"
+      },
+      {
+        "name": "Dragon Ball Z",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/dragon_ball_z.jpg"
+      },
+      {
+        "name": "Demon Slayer",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/demon_slayer.jpg"
+      },
+      {
+        "name": "DEATH NOTE",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/death_note.jpg"
+      },
+      {
+        "name": "Dr Stone",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/dr_stone.jpg"
+      },
+      {
+        "name": "Diários de uma apotecária",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/diarios_de_uma_apotecaria.jpg"
+      },
+      {
+        "name": "Fullmetal Alchemist",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/fullmetal_alchemist.jpg"
+      },
+      {
+        "name": "Hunter x Hunter",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/hunter_x_hunter.jpg"
+      },
+      {
+        "name": "Jujutsu Kaisen",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/jujutsu_kaisen.jpg"
+      },
+      {
+        "name": "Jojo Bizarre Adventure",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/jojo_bizarre_adventure.jpg"
+      },
+      {
+        "name": "Kakegurui",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/kakegurui.jpg"
+      },
+      {
+        "name": "Mob Psycho",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/mob_psycho.jpg"
+      },
+      {
+        "name": "Monster",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/monster.jpg"
+      },
+      {
+        "name": "Evangelion",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/evangelion.jpg"
+      },
+      {
+        "name": "Naruto",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/naruto.jpg"
+      },
+      {
+        "name": "Noragami",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/noragami.jpg"
+      },
+      {
+        "name": "One Piece",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/one_piece.jpg"
+      },
+      {
+        "name": "One Punch Man",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/one_punch_man.jpg"
+      },
+      {
+        "name": "Saiki Kusuo",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/saiki_kusuo.jpg"
+      },
+      {
+        "name": "Solo Leveling",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/solo_leveling.jpg"
+      },
+      {
+        "name": "Tokyo Ghoul",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/tokyo_ghoul.jpg"
+      },
+      {
+        "name": "SPY x FAMILY",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/spy_x_family.jpg"
+      },
+      {
+        "name": "Konosuba",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/konosuba.jpg"
+      },
+      {
+        "name": "Dan Da dan",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/dan_da_dan.jpg"
+      },
+      {
+        "name": "Kaguya Sama",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/kaguya_sama.jpg"
+      },
+      {
+        "name": "Blend S",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/blend_s.jpg"
+      },
+      {
+        "name": "Yuri on Ice",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/yuri_on_ice.jpg"
+      },
+      {
+        "name": "Haikyu",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/haikyu.png"
+      },
+      {
+        "name": "Kobayashi San",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/kobayashi_san.jpg"
+      },
+      {
+        "name": "Nana",
+        "what": "Anime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/animes/nana.jpg"
+      }
+    ],
+    "bspowers": [
+      {
+        "name": "Bomba de Espetos",
+        "what": "Acessório",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/bspowers_Bomba_de_Cactos_1776561325906.jpg"
+      },
+      {
+        "name": "Cacto Pacto",
+        "what": "Acessório",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/bspowers_Cacto_Pacto_1776610649874.jpg"
+      }
+    ],
+    "jogos": [
+      {
+        "what": "Jogo",
+        "name": "Minecraft",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/minecraft.jpg"
+      },
+      {
+        "name": "Minecraft Dungeons",
+        "what": "Jogo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/minecraft_dungeons.jpg"
+      },
+      {
+        "name": "EA FC 26",
+        "what": "JOGO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/ea_fc_26.jpg"
+      },
+      {
+        "what": "JOGO",
+        "name": "eFootball",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/efootball.jpg"
+      },
+      {
+        "name": "UFL",
+        "what": "JOGO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/ultimate_football_league.jpg"
+      },
+      {
+        "what": "JOGO",
+        "name": "Marvel Spider-Man",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/marvel_spider_man.jpg"
+      },
+      {
+        "what": "JOGO",
+        "name": "Marvel Spider-Man Miles Morales",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/marvel_spider_man_miles_morales.jpg"
+      },
+      {
+        "what": "Jogo",
+        "name": "DRAGON BALL Sparking ZERO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/dragon_ball_sparking_zero.jpg"
+      },
+      {
+        "what": "JOGO",
+        "name": "Sifu",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/sifu.jpg"
+      },
+      {
+        "what": "JOGO",
+        "name": "Bloodborne",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/bloodborne.jpg"
+      },
+      {
+        "what": "Jogo",
+        "name": "Poppy Playtime",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/poppy_playtime.jpg"
+      },
+      {
+        "what": "JOGO",
+        "name": "Roblox",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/roblox.png"
+      },
+      {
+        "what": "Jogo",
+        "name": "Cuphead",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/cuphead.jpg"
+      },
+      {
+        "what": "Jogo",
+        "name": "Silksong",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/silksong.jpg"
+      },
+      {
+        "what": "Jogo",
+        "name": "Fortnite",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/fortnite.jpg"
+      },
+      {
+        "name": "Mortal Kombat",
+        "what": "Jogo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/mortal_kombat.jpg"
+      },
+      {
+        "what": "Jogo",
+        "name": "Just Dance",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/just_dance.jpg"
+      },
+      {
+        "what": "Jogo",
+        "name": "Overwatch",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/overwatch.jpg"
+      },
+      {
+        "what": "Jogo",
+        "name": "Call of Duty",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/call_of_duty.jpg"
+      },
+      {
+        "name": "Battlefield",
+        "what": "Jogo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/jogos_battlefield_1782951232779.jpg"
+      },
+      {
+        "name": "Grand Theft Auto VI",
+        "what": "Jogo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/grand_theft_auto_vi.jpg"
+      },
+      {
+        "name": "DEATH STRANDING 2",
+        "what": "Jogo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/death_stranding_2.jpg"
+      },
+      {
+        "what": "Jogo",
+        "name": "Red Dead Redemption 2",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/red_dead_redemption_2.jpg"
+      },
+      {
+        "what": "Jogo",
+        "name": "Overcooked",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/overcooked.jpg"
+      },
+      {
+        "what": "Jogo",
+        "name": "Rematch",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/rematch.jpg"
+      },
+      {
+        "name": "Elden Ring",
+        "what": "Jogo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/jogos_elden_ring_1782951234259.jpg"
+      },
+      {
+        "what": "Jogo",
+        "name": "Stray",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/stray.jpg"
+      },
+      {
+        "what": "Jogo",
+        "name": "Free Fire",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/free_fire.jpg"
+      },
+      {
+        "name": "Red Dead Redemption",
+        "what": "Jogo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/red_dead_redemption.jpg"
+      },
+      {
+        "name": "Brawl Stars",
+        "what": "Jogo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/jogos/brawl_stars.jpg"
+      },
+      {
+        "name": "Super Mario Kart",
+        "what": "Jogo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/jogos_super_mario_kart_1782951235547.jpg"
+      },
+      {
+        "name": "Demons Souls",
+        "what": "Jogo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/jogos_demons_souls_1782951242645.jpg"
+      },
+      {
+        "name": "LEGO BATMAN O Legado do Cavaleiro das Trevas",
+        "what": "Jogo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/jogos_lego_batman_o_legado_do_cavaleiro_das_trevas_1782951249821.jpg"
+      },
+      {
+        "name": "Batman Arkham Knight",
+        "what": "Jogo",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/jogos_batman_arkham_knight_1782951256978.jpg"
+      }
+    ],
+    "movie": [
+      {
+        "name": "Sonic 3",
+        "what": "Filmes",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/movie/sonic_3.jpg"
+      },
+      {
+        "name": "Stranger Things",
+        "what": "SÉRIE",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/movie/stranger_things.jpg"
+      },
+      {
+        "name": "Vingadores Ultimato",
+        "what": "Filmes",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/movie/vingadores_ultimato.jpg"
+      }
+    ],
+    "nomes": [
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/nomes/gelli_clash.jpg",
+        "name": "gelli clash",
+        "what": "Nome"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/nomes/luba_tv.jpg",
+        "name": "luba tv",
+        "what": "Nome"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/nomes/alanzoka.png",
+        "name": "alanzoka",
+        "what": "Nome"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/nomes/tazercraft.jpg",
+        "name": "tazercraft",
+        "what": "Nome"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/nomes/maradona.jpg",
+        "name": "maradona",
+        "what": "Nome"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/nomes/pele.jpg",
+        "name": "pelé",
+        "what": "Nome"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/nomes/haaland.jpg",
+        "name": "haaland",
+        "what": "Nome"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/nomes/pedri.jpg",
+        "name": "pedri",
+        "what": "Nome"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/nomes/valverde.jpg",
+        "name": "Valverde",
+        "what": "Nome"
+      },
+      {
+        "what": "Nome",
+        "name": "Cellbit",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/nomes/cellbit.jpg"
+      },
+      {
+        "what": "Nome",
+        "name": "mia khalifa",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/nomes/mia_khalifa.jpg"
+      },
+      {
+        "name": "xQc",
+        "what": "Streamers",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/nomes_xqc_1782951266638.jpg"
+      },
+      {
+        "name": "IShowSpeed",
+        "what": "Streamer",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/nomes_ishowspeed_1782951273904.jpg"
+      },
+      {
+        "name": "Kai Havertz",
+        "what": "Nomes",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/nomes_kai_havertz_1782951280885.jpg"
+      }
+    ],
+    "objeto": [
+      {
+        "what": "OBJETO",
+        "name": "Globo Terrestre",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/globo_terrestre.png"
+      },
+      {
+        "what": "OBJETO",
+        "name": "canetas",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/canetas.jpg"
+      },
+      {
+        "what": "OBJETO",
+        "name": "Óculos",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/oculos.jpg"
+      },
+      {
+        "what": "OBJETO",
+        "name": "Relógios",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/relogios.jpg"
+      },
+      {
+        "what": "OBJETO",
+        "name": "Chaves",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/chaves.jpg"
+      },
+      {
+        "what": "objeto tecnologia",
+        "name": "laptops",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/laptops.jpg"
+      },
+      {
+        "what": "objeto tecnologia",
+        "name": "Fones de ouvido",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/fones_de_ouvido.jpg"
+      },
+      {
+        "what": "objeto tecnologia",
+        "name": "Câmeras fotográficas",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/cameras_fotograficas.jpg"
+      },
+      {
+        "what": "objeto tecnologia",
+        "name": "Televisores",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/televisores.jpg"
+      },
+      {
+        "what": "objeto ferramentas",
+        "name": "Martelos",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/martelos.jpg"
+      },
+      {
+        "what": "objeto ferramentas",
+        "name": "Chaves inglesas",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/chaves_inglesas.jpg"
+      },
+      {
+        "what": "objeto ferramentas",
+        "name": "Parafusos",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/parafusos.jpg"
+      },
+      {
+        "what": "objeto ferramentas",
+        "name": "Pás",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/pas.jpg"
+      },
+      {
+        "what": "objeto ferramentas",
+        "name": "Furadeiras",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/furadeiras.jpg"
+      },
+      {
+        "what": "Instrumentos musicais",
+        "name": "Guitarras",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/guitarras.jpg"
+      },
+      {
+        "what": "Instrumentos Musicais",
+        "name": "Violinos",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/violinos.jpg"
+      },
+      {
+        "what": "Instrumentos Musicais",
+        "name": "Trompetes",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/objeto/trompetes.jpg"
+      }
+    ],
+    "pais": [
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/afeganistao.png",
+        "name": "Afeganistão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_aland.png",
+        "name": "Ilhas Åland",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/albania.png",
+        "name": "Albânia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/argelia.png",
+        "name": "Argélia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/samoa_americana.png",
+        "name": "Samoa Americana",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/andorra.png",
+        "name": "Andorra",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/angola.png",
+        "name": "Angola",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/anguilla.png",
+        "name": "Anguilla",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/antartica.png",
+        "name": "Antártica",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/antigua_e_barbuda.png",
+        "name": "Antígua e Barbuda",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/argentina.png",
+        "name": "Argentina",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/armenia.png",
+        "name": "Armênia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/aruba.png",
+        "name": "Aruba",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/australia.png",
+        "name": "Austrália",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/austria.png",
+        "name": "Áustria",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/azerbaijao.png",
+        "name": "Azerbaijão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/bahamas.png",
+        "name": "Bahamas",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/bahrein.png",
+        "name": "Bahrein",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/bangladesh.png",
+        "name": "Bangladesh",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/barbados.png",
+        "name": "Barbados",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/bielorrussia.png",
+        "name": "Bielorrússia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/belgica.png",
+        "name": "Bélgica",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/belize.png",
+        "name": "Belize",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/benin.png",
+        "name": "Benin",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/bermudas.png",
+        "name": "Bermudas",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/butao.png",
+        "name": "Butão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/bolivia.png",
+        "name": "Bolívia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/bosnia_e_herzegovina.png",
+        "name": "Bósnia e Herzegovina",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/botsuana.png",
+        "name": "Botsuana",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilha_bouvet.png",
+        "name": "Ilha Bouvet",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/brasil.png",
+        "name": "Brasil",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/territorio_britanico_do_oceano_indico.png",
+        "name": "Território Britânico do Oceano Índico",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/brunei.png",
+        "name": "Brunei",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/bulgaria.png",
+        "name": "Bulgária",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/burkina_faso.png",
+        "name": "Burkina Faso",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/burundi.png",
+        "name": "Burundi",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/camboja.png",
+        "name": "Camboja",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/camaroes.png",
+        "name": "Camarões",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/canada.png",
+        "name": "Canadá",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/cabo_verde.png",
+        "name": "Cabo Verde",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/paises_baixos_do_caribe.png",
+        "name": "Países Baixos do Caribe",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_cayman.png",
+        "name": "Ilhas Cayman",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/republica_centro_africana.png",
+        "name": "República Centro-Africana",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/chade.png",
+        "name": "Chade",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/chile.png",
+        "name": "Chile",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/china.png",
+        "name": "China",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilha_christmas.png",
+        "name": "Ilha Christmas",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_cocos.png",
+        "name": "Ilhas Cocos",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/colombia.png",
+        "name": "Colômbia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/comores.png",
+        "name": "Comores",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/republica_do_congo.png",
+        "name": "República do Congo",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/republica_democratica_do_congo.png",
+        "name": "República Democrática do Congo",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_cook.png",
+        "name": "Ilhas Cook",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/costa_rica.png",
+        "name": "Costa Rica",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/costa_do_marfim.png",
+        "name": "Costa do Marfim",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/croacia.png",
+        "name": "Croácia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/cuba.png",
+        "name": "Cuba",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/curacao.png",
+        "name": "Curaçao",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/chipre.png",
+        "name": "Chipre",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/chequia.png",
+        "name": "Chéquia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/dinamarca.png",
+        "name": "Dinamarca",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/djibuti.png",
+        "name": "Djibuti",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/dominica.png",
+        "name": "Dominica",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/republica_dominicana.png",
+        "name": "República Dominicana",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/equador.png",
+        "name": "Equador",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/egito.png",
+        "name": "Egito",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/el_salvador.png",
+        "name": "El Salvador",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/inglaterra.png",
+        "name": "Inglaterra",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/guine_equatorial.png",
+        "name": "Guiné Equatorial",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/eritreia.png",
+        "name": "Eritreia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/estonia.png",
+        "name": "Estônia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/eswatini.png",
+        "name": "Eswatini",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/etiopia.png",
+        "name": "Etiópia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_falkland.png",
+        "name": "Ilhas Falkland",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_faroe.png",
+        "name": "Ilhas Faroé",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/fiji.png",
+        "name": "Fiji",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/finlandia.png",
+        "name": "Finlândia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/franca.png",
+        "name": "França",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/guiana_francesa.png",
+        "name": "Guiana Francesa",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/polinesia_francesa.png",
+        "name": "Polinésia Francesa",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/terras_austrais_e_antarticas_francesas.png",
+        "name": "Terras Austrais e Antárticas Francesas",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/gabao.png",
+        "name": "Gabão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/gambia.png",
+        "name": "Gâmbia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/georgia.png",
+        "name": "Geórgia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/alemanha.png",
+        "name": "Alemanha",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/gana.png",
+        "name": "Gana",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/gibraltar.png",
+        "name": "Gibraltar",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/grecia.png",
+        "name": "Grécia",
+        "what": "País"
+      },
+      {
+        "name": "Groenlândia",
+        "what": "País",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/groenlandia.png"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/granada.png",
+        "name": "Granada",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/guadalupe.png",
+        "name": "Guadalupe",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/guam.png",
+        "name": "Guam",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/guatemala.png",
+        "name": "Guatemala",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/guernsey.png",
+        "name": "Guernsey",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/guine.png",
+        "name": "Guiné",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/guine_bissau.png",
+        "name": "Guiné-Bissau",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/guiana.png",
+        "name": "Guiana",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/haiti.png",
+        "name": "Haiti",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilha_heard_e_ilhas_mcdonald.png",
+        "name": "Ilha Heard e Ilhas McDonald",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/honduras.png",
+        "name": "Honduras",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/hong_kong.png",
+        "name": "Hong Kong",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/hungria.png",
+        "name": "Hungria",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/islandia.png",
+        "name": "Islândia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/india.png",
+        "name": "Índia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/indonesia.png",
+        "name": "Indonésia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ira.png",
+        "name": "Irã",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/iraque.png",
+        "name": "Iraque",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/irlanda.png",
+        "name": "Irlanda",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilha_de_man.png",
+        "name": "Ilha de Man",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/israel.png",
+        "name": "Israel",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/italia.png",
+        "name": "Itália",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/jamaica.png",
+        "name": "Jamaica",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/japao.png",
+        "name": "Japão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/jersey.png",
+        "name": "Jersey",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/jordania.png",
+        "name": "Jordânia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/cazaquistao.png",
+        "name": "Cazaquistão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/quenia.png",
+        "name": "Quênia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/kiribati.png",
+        "name": "Kiribati",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/coreia_do_norte.png",
+        "name": "Coreia do Norte",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/coreia_do_sul.png",
+        "name": "Coreia do Sul",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/kosovo.png",
+        "name": "Kosovo",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/kuwait.png",
+        "name": "Kuwait",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/quirguistao.png",
+        "name": "Quirguistão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/laos.png",
+        "name": "Laos",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/letonia.png",
+        "name": "Letônia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/libano.png",
+        "name": "Líbano",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/lesoto.png",
+        "name": "Lesoto",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/liberia.png",
+        "name": "Libéria",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/libia.png",
+        "name": "Líbia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/liechtenstein.png",
+        "name": "Liechtenstein",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/lituania.png",
+        "name": "Lituânia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/luxemburgo.png",
+        "name": "Luxemburgo",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/macau.png",
+        "name": "Macau",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/madagascar.png",
+        "name": "Madagáscar",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/malawi.png",
+        "name": "Malawi",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/malasia.png",
+        "name": "Malásia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/maldivas.png",
+        "name": "Maldivas",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/mali.png",
+        "name": "Mali",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/malta.png",
+        "name": "Malta",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_marshall.png",
+        "name": "Ilhas Marshall",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/martinica.png",
+        "name": "Martinica",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/mauritania.png",
+        "name": "Mauritânia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/mauricia.png",
+        "name": "Maurícia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/mayotte.png",
+        "name": "Mayotte",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/mexico.png",
+        "name": "México",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/micronesia.png",
+        "name": "Micronésia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/moldavia.png",
+        "name": "Moldávia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/monaco.png",
+        "name": "Mônaco",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/mongolia.png",
+        "name": "Mongólia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/montenegro.png",
+        "name": "Montenegro",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/montserrat.png",
+        "name": "Montserrat",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/marrocos.png",
+        "name": "Marrocos",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/mocambique.png",
+        "name": "Moçambique",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/mianmar.png",
+        "name": "Mianmar",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/namibia.png",
+        "name": "Namíbia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/nauru.png",
+        "name": "Nauru",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/nepal.png",
+        "name": "Nepal",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/paises_baixos.png",
+        "name": "Países Baixos",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/nova_caledonia.png",
+        "name": "Nova Caledônia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/nova_zelandia.png",
+        "name": "Nova Zelândia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/nicaragua.png",
+        "name": "Nicarágua",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/niger.png",
+        "name": "Níger",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/nigeria.png",
+        "name": "Nigéria",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/niue.png",
+        "name": "Niue",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilha_norfolk.png",
+        "name": "Ilha Norfolk",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/macedonia_do_norte.png",
+        "name": "Macedônia do Norte",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/irlanda_do_norte.png",
+        "name": "Irlanda do Norte",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_marianas_do_norte.png",
+        "name": "Ilhas Marianas do Norte",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/noruega.png",
+        "name": "Noruega",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/oma.png",
+        "name": "Omã",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/paquistao.png",
+        "name": "Paquistão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/palau.png",
+        "name": "Palau",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/palestina.png",
+        "name": "Palestina",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/panama.png",
+        "name": "Panamá",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/papua_nova_guine.png",
+        "name": "Papua Nova Guiné",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/paraguai.png",
+        "name": "Paraguai",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/peru.png",
+        "name": "Peru",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/filipinas.png",
+        "name": "Filipinas",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_pitcairn.png",
+        "name": "Ilhas Pitcairn",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/polonia.png",
+        "name": "Polônia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/portugal.png",
+        "name": "Portugal",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/porto_rico.png",
+        "name": "Porto Rico",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/catar.png",
+        "name": "Catar",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/reuniao.png",
+        "name": "Reunião",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/romenia.png",
+        "name": "Romênia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/russia.png",
+        "name": "Rússia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ruanda.png",
+        "name": "Ruanda",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/sao_bartolomeu.png",
+        "name": "São Bartolomeu",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/santa_helena_ascensao_e_tristao_da_cunha.png",
+        "name": "Santa Helena, Ascensão e Tristão da Cunha",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/sao_cristovao_e_nevis.png",
+        "name": "São Cristóvão e Nevis",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/santa_lucia.png",
+        "name": "Santa Lúcia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/sao_martinho.png",
+        "name": "São Martinho",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/sao_pedro_e_miquelao.png",
+        "name": "São Pedro e Miquelão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/sao_vicente_e_granadinas.png",
+        "name": "São Vicente e Granadinas",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/samoa.png",
+        "name": "Samoa",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/san_marino.png",
+        "name": "San Marino",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/sao_tome_e_principe.png",
+        "name": "São Tomé e Príncipe",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/arabia_saudita.png",
+        "name": "Arábia Saudita",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/escocia.png",
+        "name": "Escócia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/senegal.png",
+        "name": "Senegal",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/servia.png",
+        "name": "Sérvia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/seicheles.png",
+        "name": "Seicheles",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/serra_leoa.png",
+        "name": "Serra Leoa",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/singapura.png",
+        "name": "Singapura",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/sint_maarten.png",
+        "name": "Sint Maarten",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/eslovaquia.png",
+        "name": "Eslováquia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/eslovenia.png",
+        "name": "Eslovênia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_salomao.png",
+        "name": "Ilhas Salomão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/somalia.png",
+        "name": "Somália",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/africa_do_sul.png",
+        "name": "África do Sul",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/georgia_do_sul.png",
+        "name": "Geórgia do Sul",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/sudao_do_sul.png",
+        "name": "Sudão do Sul",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/espanha.png",
+        "name": "Espanha",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/sri_lanka.png",
+        "name": "Sri Lanka",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/sudao.png",
+        "name": "Sudão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/suriname.png",
+        "name": "Suriname",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/svalbard_e_jan_mayen.png",
+        "name": "Svalbard e Jan Mayen",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/suecia.png",
+        "name": "Suécia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/suica.png",
+        "name": "Suíça",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/siria.png",
+        "name": "Síria",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/taiwan.png",
+        "name": "Taiwan",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/tajiquistao.png",
+        "name": "Tajiquistão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/tanzania.png",
+        "name": "Tanzânia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/tailandia.png",
+        "name": "Tailândia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/timor_leste.png",
+        "name": "Timor-Leste",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/togo.png",
+        "name": "Togo",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/tokelau.png",
+        "name": "Tokelau",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/tonga.png",
+        "name": "Tonga",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/trindade_e_tobago.png",
+        "name": "Trindade e Tobago",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/tunisia.png",
+        "name": "Tunísia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/turquia.png",
+        "name": "Turquia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/turcomenistao.png",
+        "name": "Turcomenistão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_turks_and_caicos.png",
+        "name": "Ilhas Turks and Caicos",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/tuvalu.png",
+        "name": "Tuvalu",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/uganda.png",
+        "name": "Uganda",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ucrania.png",
+        "name": "Ucrânia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/emirados_arabes_unidos.png",
+        "name": "Emirados Árabes Unidos",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/reino_unido.png",
+        "name": "Reino Unido",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/estados_unidos.png",
+        "name": "Estados Unidos",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_menores_distantes_dos_estados_unidos.png",
+        "name": "Ilhas Menores Distantes dos Estados Unidos",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/uruguai.png",
+        "name": "Uruguai",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/uzbequistao.png",
+        "name": "Uzbequistão",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/vanuatu.png",
+        "name": "Vanuatu",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/cidade_do_vaticano.png",
+        "name": "Cidade do Vaticano",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/venezuela.png",
+        "name": "Venezuela",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/vietna.png",
+        "name": "Vietnã",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_virgens_britanicas.png",
+        "name": "Ilhas Virgens Britânicas",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/ilhas_virgens_americanas.png",
+        "name": "Ilhas Virgens Americanas",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/pais_de_gales.png",
+        "name": "País de Gales",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/wallis_and_futuna.png",
+        "name": "Wallis and Futuna",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/saara_ocidental.png",
+        "name": "Saara Ocidental",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/iemen.png",
+        "name": "Iémen",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/zambia.png",
+        "name": "Zâmbia",
+        "what": "País"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/pais/zimbabue.png",
+        "name": "Zimbábue",
+        "what": "País"
+      }
+    ],
+    "random": [
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/acerola.jpg",
+        "name": "acerola",
+        "tracos": "❌",
+        "bonus": 150
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/banana.jpg",
+        "name": "banana",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "DESENHO",
+        "url": "https://w7.pngwing.com/pngs/918/392/png-transparent-pepe-the-frog-information-internet-video-game-others-miscellaneous-food-leaf-thumbnail.png",
+        "name": "pepe",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "NOME DO JOGOS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/slither_io.png",
+        "name": "slither io",
+        "tracos": "❌",
+        "bonus": 50
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/controle_remoto.jpg",
+        "name": "controle remoto",
+        "tracos": "❌",
+        "bonus": 100
+      },
+      {
+        "what": "ANIMAL",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/coruja_branca.jpg",
+        "name": "coruja branca",
+        "tracos": "❌",
+        "bonus": 350
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://img.elo7.com.br/product/main/263B0AD/quadro-deadpool-desenho-tamanho-35x25-cm-super-heroi.jpg",
+        "name": "deadpool",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/despertador.jpg",
+        "name": "despertador",
+        "tracos": "❌",
+        "bonus": 400
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://www.bordadosrl.com.br/9622-large_default/o-bom-dinossauro-05-tres-tamanhos.jpg",
+        "name": "o bom dinossauro",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "VEICULOS DO GTA V",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/elegy.webp",
+        "name": "elegy",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/homem_de_ferro.jpg",
+        "name": "homem de ferro",
+        "tracos": "❌",
+        "bonus": 600
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/finn.webp",
+        "name": "finn",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/hanako_kun.jpg",
+        "name": "hanako-kun",
+        "tracos": "✅",
+        "bonus": 1500
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/harry_potter.jpg",
+        "name": "harry potter",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "VEICULOS DO GTA V",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/infernus.webp",
+        "name": "infernus",
+        "tracos": "❌",
+        "bonus": 850
+      },
+      {
+        "what": "FRUTA",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/laranja.jpg",
+        "name": "laranja",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "ANIMAL",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/leao.jpg",
+        "name": "leão",
+        "tracos": "❌",
+        "bonus": 1200
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/limao.jpg",
+        "name": "limão",
+        "tracos": "❌",
+        "bonus": 550
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/Lisa_Simpson_personagem.png/200px-Lisa_Simpson_personagem.png",
+        "name": "lisa",
+        "tracos": "❌",
+        "bonus": 400
+      },
+      {
+        "what": "ANIMAL",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Canis_lupus_265b.jpg/800px-Canis_lupus_265b.jpg",
+        "name": "lobo",
+        "tracos": "❌",
+        "bonus": 430
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/megumin.jpg",
+        "name": "megumin",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/hatsune_miku.webp",
+        "name": "hatsune miku",
+        "tracos": "❌",
+        "bonus": 900
+      },
+      {
+        "what": "NOME DOS PERSONAGEM",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_mike_1782951313243.jpg",
+        "name": "mike",
+        "tracos": "❌",
+        "bonus": 800
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/morango.jpg",
+        "name": "morango",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "PLANETA UNIVERSO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/netuno.jpg",
+        "name": "netuno",
+        "tracos": "❌",
+        "bonus": 150
+      },
+      {
+        "what": "ANIMAL",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Papagaio-verdadeiro.jpg/800px-Papagaio-verdadeiro.jpg",
+        "name": "papagaio-verdadeiro",
+        "tracos": "✅",
+        "bonus": 700
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://upload.wikimedia.org/wikipedia/pt/3/3f/Woody_Woodpecker.png",
+        "name": "pica-pau",
+        "tracos": "✅",
+        "bonus": 250
+      },
+      {
+        "what": "ANIMAL",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/pinguins.jpg",
+        "name": "pinguins",
+        "tracos": "❌",
+        "bonus": 600
+      },
+      {
+        "what": "SALA",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/professor.jpg",
+        "name": "professor",
+        "tracos": "❌",
+        "bonus": 400
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/severus_snape.jpg",
+        "name": "severus snape",
+        "tracos": "❌",
+        "bonus": 650
+      },
+      {
+        "what": "ANIMAL",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/urso.jpg",
+        "name": "urso",
+        "tracos": "❌",
+        "bonus": 100
+      },
+      {
+        "what": "ANIMAL",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/urubu_preto.jpg",
+        "name": "urubu-preto",
+        "tracos": "✅",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO JOGOS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/minecraft.jpg",
+        "name": "minecraft",
+        "tracos": "❌",
+        "bonus": 650
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/zootopia.jpg",
+        "name": "zootopia",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/a_fera_do_mar.jpg",
+        "name": "a fera do mar",
+        "tracos": "❌",
+        "bonus": 130
+      },
+      {
+        "what": "NOME DOS DRAGÕES?",
+        "url": "http://pm1.narvii.com/7010/4ac1e3e714b00235a683348e7c886ddd29d921dcr1-470-652v2_00.jpg",
+        "name": "furia da noite",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/01/Panico-5-filmes-terror.jpg?w=876&h=484&crop=1",
+        "name": "panico",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/a_fantastica_fabrica_de_chocolate.jpg",
+        "name": "a fantastica fabrica de chocolate",
+        "tracos": "❌",
+        "bonus": 850
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/xadrez.jpg",
+        "name": "xadrez",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/lord_voldemort.jpg",
+        "name": "lord voldemort",
+        "tracos": "❌",
+        "bonus": 105
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://designe.com.br/wp-content/uploads/2021/05/feiticeira-escarlate-em-doutor-estranho-2.jpg",
+        "name": "feiticeira escarlate",
+        "tracos": "❌",
+        "bonus": 450
+      },
+      {
+        "what": "DESENHO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/pipa.jpg",
+        "name": "pipa",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "SALA?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/biblioteca.jpg",
+        "name": "biblioteca",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "MATERIAIS?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/quimica.jpg",
+        "name": "quimica",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "QUEM ANONIMOS É ESSE?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/hacker.jpg",
+        "name": "hacker",
+        "tracos": "❌",
+        "bonus": 999
+      },
+      {
+        "what": "NOME DO PAÍS",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flag_of_Australia_%28converted%29.svg.png",
+        "name": "australia",
+        "tracos": "❌",
+        "bonus": 650
+      },
+      {
+        "what": "NOME DO PAÍS",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/290px-Flag_of_Ukraine.svg.png",
+        "name": "ucrania",
+        "tracos": "❌",
+        "bonus": 400
+      },
+      {
+        "what": "NOME DO PAÍS",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/255px-Flag_of_Italy.svg.png",
+        "name": "italia",
+        "tracos": "❌",
+        "bonus": 100
+      },
+      {
+        "what": "NOME DO PAÍS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/belgica.jpg",
+        "name": "belgica",
+        "tracos": "❌",
+        "bonus": 400
+      },
+      {
+        "what": "NOME DO PAÍS",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png",
+        "name": "argentina",
+        "tracos": "❌",
+        "bonus": 270
+      },
+      {
+        "what": "Que dia começou a guerra entre Rússia e Ucrânia?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/24_de_fevereiro_de_2022.jpg",
+        "name": "24 de fevereiro de 2022",
+        "tracos": "❌",
+        "bonus": 150
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/pantera_negra.jpg",
+        "name": "pantera negra",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "QUEM SERIE É ESSE?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/the_flash.jpg",
+        "name": "the flash",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/batman.jpg",
+        "name": "batman",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "QUEM SERIE É ESSE?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/superman_lois.jpg",
+        "name": "superman & lois",
+        "tracos": "❌",
+        "bonus": 600
+      },
+      {
+        "what": "NOME DOS PICARETA?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/netherite.webp",
+        "name": "netherite",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "NOME DOS PICARETA?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/diamante_encantada.png",
+        "name": "diamante encantada",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/gigantes_de_aco.jpg",
+        "name": "gigantes de aco",
+        "tracos": "❌",
+        "bonus": 650
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/zeus.jpg",
+        "name": "zeus",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "DESENHO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/helicoptero.jpg",
+        "name": "helicoptero",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "DESENHO",
+        "url": "https://e7.pngegg.com/pngimages/549/533/png-clipart-rocket-rocket-cartoon.png",
+        "name": "foguete",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/thanos.jpg",
+        "name": "thanos",
+        "tracos": "❌",
+        "bonus": 600
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/doutor_estranho.jpg",
+        "name": "doutor estranho",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "Nome dos dimensão minecraft?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/portal_do_nether.webp",
+        "name": "portal do nether",
+        "tracos": "❌",
+        "bonus": 777
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/globo_terrestre.jpg",
+        "name": "globo terrestre",
+        "tracos": "❌",
+        "bonus": 800
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://static.vecteezy.com/system/resources/previews/009/269/574/non_2x/3d-illustration-old-television-object-png.png",
+        "name": "televisao",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/balde.png",
+        "name": "balde",
+        "tracos": "❌",
+        "bonus": 100
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/balde_de_pipoca.jpg",
+        "name": "balde de pipoca",
+        "tracos": "❌",
+        "bonus": 650
+      },
+      {
+        "what": "TIME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/fluminense.jpg",
+        "name": "fluminense",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "TIME",
+        "url": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Athletico_Paranaense_2019.png",
+        "name": "athletico paranaense",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "TIME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/flamengo.png",
+        "name": "flamengo",
+        "tracos": "❌",
+        "bonus": 550
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://w7.pngwing.com/pngs/541/545/png-transparent-sash-window-wood-stain-house-object-furniture-rectangle-window.png",
+        "name": "janela",
+        "tracos": "❌",
+        "bonus": 550
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://w7.pngwing.com/pngs/541/545/png-transparent-sash-window-wood-stain-house-object-furniture-rectangle-window.png",
+        "name": "janela",
+        "tracos": "❌",
+        "bonus": 550
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/cadeira.jpg",
+        "name": "cadeira",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NATUREZA",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/arvore.jpg",
+        "name": "arvore",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/avatar_2.jpg",
+        "name": "avatar 2",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/velozes_e_furiosos_7.jpg",
+        "name": "velozes e furiosos 7",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/velozes_e_furiosos_8.jpg",
+        "name": "velozes e furiosos 8",
+        "tracos": "❌",
+        "bonus": 170
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/velozes_e_furiosos_9.jpg",
+        "name": "velozes e furiosos 9",
+        "tracos": "❌",
+        "bonus": 400
+      },
+      {
+        "what": "VEICULOS DO GTA V",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/picape_insurgent.webp",
+        "name": "picape insurgent",
+        "tracos": "❌",
+        "bonus": 300
+      },
+      {
+        "what": "VEICULOS DO GTA V",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/brickade.webp",
+        "name": "brickade",
+        "tracos": "❌",
+        "bonus": 230
+      },
+      {
+        "what": "NOME DO JOGOS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/grand_theft_auto_san_andreas.jpg",
+        "name": "grand theft auto san andreas",
+        "tracos": "❌",
+        "bonus": 700
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/rochell_le.jpg",
+        "name": "rochell'le",
+        "tracos": "❌",
+        "bonus": 400
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/carl_johnson.webp",
+        "name": "carl johnson",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/rei_ayanami.jpg",
+        "name": "rei ayanami",
+        "tracos": "❌",
+        "bonus": 5000
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/uva.jpg",
+        "name": "uva",
+        "tracos": "❌",
+        "bonus": 100
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/abacaxi.jpg",
+        "name": "abacaxi",
+        "tracos": "❌",
+        "bonus": 400
+      },
+      {
+        "what": "VEICULOS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/onibus.jpg",
+        "name": "ônibus",
+        "tracos": "❌",
+        "bonus": 300
+      },
+      {
+        "what": "O SISTEMA OPERACIONAL",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/windows_10.png",
+        "name": "windows 10",
+        "tracos": "❌",
+        "bonus": 550
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://static.vecteezy.com/system/resources/previews/013/367/183/non_2x/object-clock-with-square-shape-free-png.png",
+        "name": "relógio",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/tesoura.jpg",
+        "name": "tesoura",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "DESENHO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/caminhao_de_lixo.jpg",
+        "name": "caminhão de lixo",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "DESENHO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/caminhao_guindaste.jpg",
+        "name": "caminhão guindaste",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/corrida_mortal.jpg",
+        "name": "corrida mortal",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/need_for_speed_o_filme.jpg",
+        "name": "need for speed o filme",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO JOGOS (ps2)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/need_for_speed_underground_2.jpg",
+        "name": "need for speed underground 2",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO JOGOS?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/grand_theft_auto_v.jpg",
+        "name": "grand theft auto v",
+        "tracos": "❌",
+        "bonus": 650
+      },
+      {
+        "what": "O QUE É CONSIDERADO UMA JOIA?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/diamante.jpg",
+        "name": "diamante",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "O QUE É CONSIDERADO UMA JOIA?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/ouro.jpg",
+        "name": "ouro",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "PLANETA UNIVERSO",
+        "url": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/09/asteroid-4145080_1920.jpg",
+        "name": "asteroide",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "PLANETA UNIVERSO",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/280px-FullMoon2010.jpg",
+        "name": "lua",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "PLANETA UNIVERSO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/saturno.jpg",
+        "name": "saturno",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "NOME DO JOGOS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/cubo_magico.jpg",
+        "name": "cubo magico",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO PAÍS",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1200px-Flag_of_Canada_%28Pantone%29.svg.png",
+        "name": "canada",
+        "tracos": "❌",
+        "bonus": 100
+      },
+      {
+        "what": "NOME DO APLICATIVO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/discord.png",
+        "name": "discord",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO APLICATIVO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/twitter.webp",
+        "name": "twitter",
+        "tracos": "❌",
+        "bonus": 350
+      },
+      {
+        "what": "NOME DO APLICATIVO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/netflix.png",
+        "name": "netflix",
+        "tracos": "❌",
+        "bonus": 170
+      },
+      {
+        "what": "NOME DO APLICATIVO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/pinterest.png",
+        "name": "pinterest",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO APLICATIVO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/snapchat.png",
+        "name": "snapchat",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "QUEM É O VERDADEIRO DONO DO FACEBOOK?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/mark_zuckerberg.jpg",
+        "name": "mark zuckerberg",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "OBJETO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/desentupidor.jpg",
+        "name": "desentupidor",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "QUEM É O DONO DO MINECRAFT?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/markus_persson.jpg",
+        "name": "markus persson",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "A LENDA QUE ASSOMBRA O MINECRAFT?",
+        "url": "https://www.tricurioso.com/wp-content/uploads/2020/04/lenda-do-herobrine-minecraft-3.jpg",
+        "name": "herobrine",
+        "tracos": "❌",
+        "bonus": 850
+      },
+      {
+        "what": "A LENDA DO MINECRAFT?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/technoblade.jpg",
+        "name": "technoblade",
+        "tracos": "❌",
+        "bonus": 170
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://w7.pngwing.com/pngs/996/476/png-transparent-money-bag-money-bag-desktop-wallpaper-bag-objects.png",
+        "name": "bolsa de dinheiro",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/presente.jpg",
+        "name": "presente",
+        "tracos": "❌",
+        "bonus": 100
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/arvore_de_natal.jpg",
+        "name": "arvore de natal",
+        "tracos": "❌",
+        "bonus": 100
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://e7.pngegg.com/pngimages/106/697/png-clipart-bell-bell.png",
+        "name": "sino",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "DESENHO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/ovo_de_pascoa.png",
+        "name": "ovo de páscoa",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "DESENHO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/coelho.jpg",
+        "name": "coelho",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "DESENHO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/cachorro.jpg",
+        "name": "cachorro",
+        "tracos": "❌",
+        "bonus": 333
+      },
+      {
+        "what": "DESENHO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/gato.jpg",
+        "name": "gato",
+        "tracos": "❌",
+        "bonus": 666
+      },
+      {
+        "what": "DESENHO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/rato.jpg",
+        "name": "rato",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "DESENHO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/tom_e_jerry.png",
+        "name": "tom e jerry",
+        "tracos": "❌",
+        "bonus": 600
+      },
+      {
+        "what": "DESENHO",
+        "url": "https://prints.ultracoloringpages.com/47b17e3b977a7416aca344b3f5e99bb3.png",
+        "name": "celular",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO APLICATIVO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/telegram.png",
+        "name": "telegram",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DOS MONSTROS (MINECRAFT)?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/images/random_warden_1782951330574.jpg",
+        "name": "warden",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DA CIDADE (MINECRAFT)?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/cidade_ancestral.jpg",
+        "name": "cidade ancestral",
+        "tracos": "❌",
+        "bonus": 700
+      },
+      {
+        "what": "O FIM DO MINECRAFT?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/olho_de_ender.webp",
+        "name": "olho de ender",
+        "tracos": "❌",
+        "bonus": 150
+      },
+      {
+        "what": "DESERTO DO MINECRAFT?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/templo_do_deserto.jpg",
+        "name": "templo do deserto",
+        "tracos": "❌",
+        "bonus": 430
+      },
+      {
+        "what": "MINECRAFT DA SELVA?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/templo_da_selva.jpg",
+        "name": "templo da selva",
+        "tracos": "❌",
+        "bonus": 650
+      },
+      {
+        "what": "OBJETO?",
+        "url": "https://images-americanas.b2w.io/produtos/37015041/imagens/bola-de-basquete-oficial-basketball-borracha-lifesyle-vazia-laranja/37015041_1_large.jpg",
+        "name": "bola de basquete",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/titanic.jpg",
+        "name": "titanic",
+        "tracos": "❌",
+        "bonus": 350
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/alice_no_pais_das_maravilhas.jpg",
+        "name": "alice no pais das maravilhas",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/guardioes_da_galaxia.jpg",
+        "name": "guardioes da galaxia",
+        "tracos": "❌",
+        "bonus": 350
+      },
+      {
+        "what": "OBJETO?",
+        "url": "https://static.vecteezy.com/system/resources/previews/008/485/890/non_2x/3d-illustration-object-icon-medal-png.png",
+        "name": "medalha",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "OBJETO? (INGLÊS)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/spinner.jpg",
+        "name": "spinner",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "OBJETO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/chaves.png",
+        "name": "chaves",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "OBJETO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/cone.jpg",
+        "name": "cone",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "OBJETO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/dado.jpg",
+        "name": "dado",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "OBJETO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/binoculo.jpg",
+        "name": "binoculo",
+        "tracos": "❌",
+        "bonus": 550
+      },
+      {
+        "what": "OBJETO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/guarda_chuva.jpg",
+        "name": "guarda-chuva",
+        "tracos": "✅",
+        "bonus": 400
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/matrix.jpg",
+        "name": "matrix",
+        "tracos": "❌",
+        "bonus": 650
+      },
+      {
+        "what": "NOME DO APLICATIVO?",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png",
+        "name": "youtube",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO PAÍS",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_the_Customs_of_the_People%27s_Republic_of_China.svg/220px-Flag_of_the_Customs_of_the_People%27s_Republic_of_China.svg.png",
+        "name": "china",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO PAÍS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/croacia.jpg",
+        "name": "croacia",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO PAÍS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/polonia.jpg",
+        "name": "polonia",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/piratas_do_caribe_a_vinganca_de_salazar.jpg",
+        "name": "piratas do caribe a vinganca de salazar",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "ANIMAL",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/porco.png",
+        "name": "porco",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/adao_negro.jpg",
+        "name": "adao negro",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/cruella.jpg",
+        "name": "cruella",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/gato_de_botas_2.jpg",
+        "name": "gato de botas 2",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/microfone.jpg",
+        "name": "microfone",
+        "tracos": "❌",
+        "bonus": 350
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/paraquedas.jpg",
+        "name": "paraquedas",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://rachacuca.com.br/static/jigsaw/jigsaw-og-share.png",
+        "name": "quebra-cabeça",
+        "tracos": "✅",
+        "bonus": 350
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/quebra_nozes.jpg",
+        "name": "quebra-nozes",
+        "tracos": "✅",
+        "bonus": 100
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/telescopio.jpg",
+        "name": "telescopio",
+        "tracos": "❌",
+        "bonus": 270
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/urso_de_pelucia.jpg",
+        "name": "urso de pelucia",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/ventilador.jpg",
+        "name": "ventilador",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/atemoia.jpg",
+        "name": "atemoia",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/babaco.jpg",
+        "name": "babaco",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/caqui_chocolate.jpg",
+        "name": "caqui chocolate",
+        "tracos": "❌",
+        "bonus": 130
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/castanha_portuguesa.jpg",
+        "name": "castanha portuguesa",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/citrus_em_geral.jpg",
+        "name": "citrus em geral",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/fruta_pao.jpg",
+        "name": "fruta-pao",
+        "tracos": "✅",
+        "bonus": 250
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/groselha_vermelha.jpg",
+        "name": "groselha vermelha",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/jabuticaba_branca.jpg",
+        "name": "jabuticaba branca",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/mana_cubiu.jpg",
+        "name": "mana-cubiu",
+        "tracos": "✅",
+        "bonus": 170
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/uva_japonesa.jpg",
+        "name": "uva japonesa",
+        "tracos": "❌",
+        "bonus": 120
+      },
+      {
+        "what": "NOVELAS?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/a_forca_do_querer.png",
+        "name": "a forca do querer",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOVELAS?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/avenida_brasil.jpg",
+        "name": "avenida brasil",
+        "tracos": "❌",
+        "bonus": 350
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/m3gan.jpg",
+        "name": "m3gan",
+        "tracos": "❌",
+        "bonus": 400
+      },
+      {
+        "what": "NOME DO FILME (TERROR)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/sobrenatural.jpg",
+        "name": "sobrenatural",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/sorria.jpg",
+        "name": "sorria",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/esquadrao_suicida.jpg",
+        "name": "esquadrao suicida",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/viuva_negra.jpg",
+        "name": "viuva negra",
+        "tracos": "❌",
+        "bonus": 700
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/homem_aranha.jpg",
+        "name": "homem-aranha",
+        "tracos": "✅",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/lanterna_verde.jpg",
+        "name": "lanterna verde",
+        "tracos": "❌",
+        "bonus": 800
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/mulher_maravilha.jpg",
+        "name": "mulher-maravilha",
+        "tracos": "✅",
+        "bonus": 850
+      },
+      {
+        "what": "NOME DO FILME (TERROR)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/it_a_coisa.png",
+        "name": "it - a coisa",
+        "tracos": "✅",
+        "bonus": 170
+      },
+      {
+        "what": "NOME DO FILME (TERROR)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/annabelle.jpg",
+        "name": "annabelle",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME (TERROR)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/um_lugar_silencioso.jpg",
+        "name": "um lugar silencioso",
+        "tracos": "❌",
+        "bonus": 700
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cherry_Stella444.jpg",
+        "name": "cereja",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "NOME DO PAÍS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/venezuela.png",
+        "name": "venezuela",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "MATÉRIA",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/historia.png",
+        "name": "historia",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "OBJETO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/hidrante.jpg",
+        "name": "hidrante",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "ALIMENTO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/tomate.jpg",
+        "name": "tomate",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "INSTRUMENTO MUSICAL",
+        "url": "https://musictalia.com.br/loja/wp-content/uploads/2019/12/SAXOFONE-ALTO-BENSON-BSA-1l-1-1.jpg",
+        "name": "saxofone",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "NOME DO PAÍS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/cazaquistao.jpg",
+        "name": "cazaquistao",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "ANIMAL",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/raposa.jpg",
+        "name": "raposa",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "ANIMAL",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/rinoceronte.jpg",
+        "name": "rinoceronte",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/malevola.png",
+        "name": "malevola",
+        "tracos": "❌",
+        "bonus": 830
+      },
+      {
+        "what": "NOME DO FILME (TERROR)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/a_freira.webp",
+        "name": "a freira",
+        "tracos": "❌",
+        "bonus": 340
+      },
+      {
+        "what": "PLANETA UNIVERSO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/galaxia.jpg",
+        "name": "galaxia",
+        "tracos": "❌",
+        "bonus": 260
+      },
+      {
+        "what": "PLANETA UNIVERSO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/venus.jpg",
+        "name": "venus",
+        "tracos": "❌",
+        "bonus": 300
+      },
+      {
+        "what": "PLANETA UNIVERSO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/urano.jpg",
+        "name": "urano",
+        "tracos": "❌",
+        "bonus": 650
+      },
+      {
+        "what": "O SISTEMA OPERACIONAL",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/windows_11.png",
+        "name": "windows 11",
+        "tracos": "❌",
+        "bonus": 550
+      },
+      {
+        "what": "PLANETA UNIVERSO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/plutao.jpg",
+        "name": "plutao",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "PLANETA UNIVERSO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/jupiter.jpg",
+        "name": "jupiter",
+        "tracos": "❌",
+        "bonus": 400
+      },
+      {
+        "what": "PLANETA UNIVERSO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/marte.jpg",
+        "name": "marte",
+        "tracos": "❌",
+        "bonus": 350
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/abacate.jpg",
+        "name": "abacate",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://mercadoorganico.com/9479-large_default/abacaxi-perola-organico-un-osm.jpg",
+        "name": "abacaxi perola",
+        "tracos": "❌",
+        "bonus": 450
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Blackberries_%28Rubus_fruticosus%29.jpg/250px-Blackberries_%28Rubus_fruticosus%29.jpg",
+        "name": "amora",
+        "tracos": "❌",
+        "bonus": 400
+      },
+      {
+        "what": "FRUTAS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/caju.jpg",
+        "name": "caju",
+        "tracos": "❌",
+        "bonus": 270
+      },
+      {
+        "what": "ANIMAL",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/borboleta.jpg",
+        "name": "borboleta",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/dinamite.jpg",
+        "name": "dinamite",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "NOME DO APLICATIVO?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/clash_royale.jpg",
+        "name": "clash royale",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "NOME?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/felipe_neto.jpg",
+        "name": "felipe neto",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/flakes_power.jpg",
+        "name": "flakes power",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/nery.jpg",
+        "name": "nery",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/surgical_goblin.jpg",
+        "name": "surgical goblin",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/atchiin.jpg",
+        "name": "atchiin",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/bruno.jpg",
+        "name": "bruno",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/atchiin.jpg",
+        "name": "atchiin",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "BOT DO DISCORD?",
+        "url": "https://loritta.website/assets/img/loritta_gabizinha_v1.png",
+        "name": "loritta",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "BOT DO DISCORD?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/mee6.jpg",
+        "name": "mee6",
+        "tracos": "❌",
+        "bonus": 230
+      },
+      {
+        "what": "BOT DO DISCORD?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/freestuff.png",
+        "name": "freestuff",
+        "tracos": "❌",
+        "bonus": 500
+      },
+      {
+        "what": "BOT DO DISCORD?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/carl.png",
+        "name": "carl",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "NOME?",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg",
+        "name": "messi",
+        "tracos": "❌",
+        "bonus": 800
+      },
+      {
+        "what": "NOME?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/cristiano_ronaldo.jpg",
+        "name": "cristiano ronaldo",
+        "tracos": "❌",
+        "bonus": 850
+      },
+      {
+        "what": "NOME?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/gabigol.jpg",
+        "name": "gabigol",
+        "tracos": "❌",
+        "bonus": 170
+      },
+      {
+        "what": "NOME DO JOGOS?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/grand_theft_auto_iv.jpg",
+        "name": "grand theft auto iv",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO JOGOS?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/grand_theft_auto_vice_city.jpg",
+        "name": "grand theft auto vice city",
+        "tracos": "❌",
+        "bonus": 810
+      },
+      {
+        "what": "APOCALIPSE?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/tornado.jpg",
+        "name": "tornado",
+        "tracos": "❌",
+        "bonus": 777
+      },
+      {
+        "what": "APOCALIPSE?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/tsunami.jpg",
+        "name": "tsunami",
+        "tracos": "❌",
+        "bonus": 350
+      },
+      {
+        "what": "APOCALIPSE?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/vulcao.png",
+        "name": "vulcao",
+        "tracos": "❌",
+        "bonus": 550
+      },
+      {
+        "what": "APOCALIPSE?",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krunkwerke_-_IMG_4515_%28by-sa%29.jpg/1200px-Krunkwerke_-_IMG_4515_%28by-sa%29.jpg",
+        "name": "raio",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "APOCALIPSE?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/fim_do_mundos.jpg",
+        "name": "fim do mundos",
+        "tracos": "❌",
+        "bonus": 270
+      },
+      {
+        "what": "NOME DO APLICATIVO??",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/disney.jpg",
+        "name": "disney",
+        "tracos": "❌",
+        "bonus": 230
+      },
+      {
+        "what": "NOME DO FILME (TERROR)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/chucky.jpg",
+        "name": "chucky",
+        "tracos": "❌",
+        "bonus": 50
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/a_guerra_do_amanha.jpg",
+        "name": "a guerra do amanha",
+        "tracos": "❌",
+        "bonus": 840
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://www.tricurioso.com/wp-content/uploads/2018/10/quem-inventou-cola-tricurioso.jpg",
+        "name": "cola",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/botao_de_costura.jpg",
+        "name": "botao de costura",
+        "tracos": "❌",
+        "bonus": 550
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/lupa_de_mao.jpg",
+        "name": "lupa de mao",
+        "tracos": "❌",
+        "bonus": 350
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/calendario.jpg",
+        "name": "calendario",
+        "tracos": "❌",
+        "bonus": 650
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/regua.jpg",
+        "name": "regua",
+        "tracos": "❌",
+        "bonus": 100
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/grampeador.jpg",
+        "name": "grampeador",
+        "tracos": "❌",
+        "bonus": 350
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/calculador.jpg",
+        "name": "calculador",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/batom.jpg",
+        "name": "batom",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "NOME DO VEICULOS?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/tanque.jpg",
+        "name": "tanque",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO VEICULOS?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/caminhao_militar.jpg",
+        "name": "caminhão militar",
+        "tracos": "❌",
+        "bonus": 850
+      },
+      {
+        "what": "VEICULOS DO GTA V",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/hydra.webp",
+        "name": "hydra",
+        "tracos": "❌",
+        "bonus": 700
+      },
+      {
+        "name": "savitar",
+        "what": "NOME DOS PERSONAGEM (THE FLASH)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/savitar.jpg"
+      },
+      {
+        "what": "NOME DOS PERSONAGEM (THE FLASH)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/zoom.webp",
+        "name": "zoom",
+        "tracos": "❌",
+        "bonus": 850
+      },
+      {
+        "what": "NOME DOS PERSONAGEM (THE FLASH)",
+        "url": "https://comodonerd.com.br/wp-content/uploads/2021/02/flash-reverso-3-1024x576.jpg",
+        "name": "reverso",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO JOGOS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/fortnite.jpg",
+        "name": "fortnite",
+        "tracos": "❌",
+        "bonus": 300
+      },
+      {
+        "what": "NOME DO JOGOS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/grand_theft_auto_the_trilogy.jpg",
+        "name": "grand theft auto the trilogy",
+        "tracos": "❌",
+        "bonus": 230
+      },
+      {
+        "what": "NOME DO JOGOS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/detroit_become_human.png",
+        "name": "detroit become human",
+        "tracos": "❌",
+        "bonus": 235
+      },
+      {
+        "what": "PLANETA UNIVERSO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/sistema_solar.jpg",
+        "name": "sistema solar",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/anaconda_2_a_cacada_pela_orquidea_sangrenta.jpg",
+        "name": "anaconda 2 - a cacada pela orquidea sangrenta",
+        "tracos": "✅",
+        "bonus": 950
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/coringa.jpg",
+        "name": "coringa",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/a_orfa.jpg",
+        "name": "a orfa",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/enrolados.webp",
+        "name": "enrolados",
+        "tracos": "❌",
+        "bonus": 200
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/homem_formiga.jpg",
+        "name": "homem-formiga",
+        "tracos": "✅",
+        "bonus": 250
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/as_cronicas_de_narnia.jpg",
+        "name": "as cronicas de narnia",
+        "tracos": "❌",
+        "bonus": 650
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/scooby_doo.jpg",
+        "name": "scooby-doo",
+        "tracos": "✅",
+        "bonus": 900
+      },
+      {
+        "what": "NOME DO FILME",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/o_predador.jpg",
+        "name": "o predador",
+        "tracos": "❌",
+        "bonus": 850
+      },
+      {
+        "what": "NOME DO JOGOS (ps2)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/burnout_3.jpg",
+        "name": "burnout 3",
+        "tracos": "❌",
+        "bonus": 170
+      },
+      {
+        "what": "NOME DO JOGOS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/god_of_war.jpg",
+        "name": "god of war",
+        "tracos": "❌",
+        "bonus": 170
+      },
+      {
+        "what": "BIOLOGIA",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/dna.jpg",
+        "name": "dna",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/estrela.jpg",
+        "name": "estrela",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "OBJETO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/semaforo.jpg",
+        "name": "semaforo",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "FRUTA",
+        "url": "https://sindafep.org.br/media/img_noticias/fig-fruit.jpg",
+        "name": "figo",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DOS PERSONAGEM?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/loki.jpg",
+        "name": "loki",
+        "tracos": "❌",
+        "bonus": 250
+      },
+      {
+        "what": "TIME?",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/atletico_mg.jpg",
+        "name": "atletico mg",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO JOGOS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/minecraft_legends.jpg",
+        "name": "minecraft legends",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DOS MONSTROS (MINECRAFT)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/wither_storm.jpg",
+        "name": "wither storm",
+        "tracos": "❌",
+        "bonus": 400
+      },
+      {
+        "what": "NOME DOS MONSTROS (MINECRAFT)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/enderman.jpg",
+        "name": "enderman",
+        "tracos": "❌",
+        "bonus": 460
+      },
+      {
+        "what": "NOME DOS MONSTROS (MINECRAFT)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/bruxa.jpg",
+        "name": "bruxa",
+        "tracos": "❌",
+        "bonus": 370
+      },
+      {
+        "what": "NOME DOS PERSONAGEM (MINECRAFT)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/dream.webp",
+        "name": "dream",
+        "tracos": "❌",
+        "bonus": 300
+      },
+      {
+        "what": "NOME DO FILME (TERROR)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/sobrenatural_a_porta_vermelha.jpg",
+        "name": "sobrenatural a porta vermelha",
+        "tracos": "❌",
+        "bonus": 940
+      },
+      {
+        "what": "NOME DA APPS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/tim.jpg",
+        "name": "tim",
+        "tracos": "❌",
+        "bonus": 380
+      },
+      {
+        "what": "NOME DO JOGOS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/the_last_of_us.jpg",
+        "name": "the last of us",
+        "tracos": "❌",
+        "bonus": 800
+      },
+      {
+        "what": "NOME DA APPS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/whatsapp.png",
+        "name": "whatsapp",
+        "tracos": "❌",
+        "bonus": 800
+      },
+      {
+        "what": "NOME DO CARTAS (CLASH ROYALE)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/sparky.png",
+        "name": "sparky",
+        "tracos": "❌",
+        "bonus": 4500
+      },
+      {
+        "what": "NOME DOS PERSONAGEM (MARVEL)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/hulk.jpg",
+        "name": "hulk",
+        "tracos": "❌",
+        "bonus": 1000
+      },
+      {
+        "what": "NOME DO FILMES",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/the_walking_dead.jpg",
+        "name": "the walking dead",
+        "tracos": "❌",
+        "bonus": 1500
+      },
+      {
+        "what": "NOME? (LIVE GTA V)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/paulinho.jpg",
+        "name": "paulinho",
+        "tracos": "❌",
+        "bonus": 2000
+      },
+      {
+        "what": "NOME DOS PERSONAGEM (GTA)",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/big_smoke.webp",
+        "name": "big smoke",
+        "tracos": "❌",
+        "bonus": 1600
+      },
+      {
+        "what": "NOME DO JOGOS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/rocket_league.jpg",
+        "name": "rocket league",
+        "tracos": "❌",
+        "bonus": 1700
+      },
+      {
+        "what": "NOME DOS PERSONAGEM",
+        "url": "https://upload.wikimedia.org/wikipedia/pt/3/37/Saitama_One_Punch-Man.png",
+        "name": "saitama",
+        "tracos": "❌",
+        "bonus": 1800
+      },
+      {
+        "what": "VEICULOS",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/random/trator.jpg",
+        "name": "trator",
+        "tracos": "❌",
+        "bonus": 1900
+      }
+    ],
+    "streamers": [],
+    "universo": [
+      {
+        "what": "UNIVERSO",
+        "name": "K2-18b",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/k2_18b.jpg"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "ton 618",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/ton_618.jpg"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "terra",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/terra.jpg"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "Saturno",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/saturno.jpg"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "Buraco negro",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/buraco_negro.png"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "Vênus",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/venus.jpg"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "Júpiter",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/jupiter.jpg"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "Andrômeda",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/andromeda.jpg"
+      },
+      {
+        "name": "Via Láctea",
+        "what": "UNIVERSO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/via_lactea.jpg"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "Quasar",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/quasar.jpg"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "Exoplanetas",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/exoplanetas.jpg"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "Estrela de nêutrons",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/estrela_de_neutrons.png"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "Supernova",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/supernova.png"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "Asteroides",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/asteroides.jpg"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "Cometas",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/cometas.jpg"
+      },
+      {
+        "name": "Nebulosa",
+        "what": "UNIVERSO",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/nebulosa.jpg"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "Constelação de Órion",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/constelacao_de_orion.jpg"
+      },
+      {
+        "what": "UNIVERSO",
+        "name": "Galáxia",
+        "url": "https://raw.githubusercontent.com/mateusantos24/Animado/main/Cache/Gartic/img/universo/galaxia.jpg"
+      }
+    ]
+  }
+}
